@@ -1,0 +1,998 @@
+"id_paciente","brote","sexo","edad","tabaquismo","diabetes","pcr","vsg","test","fumador"
+"PEAET","1","hombre",63,"ex fumador",FALSE,37.97,NA,FALSE,TRUE
+"FYBSU","0","hombre",71,"no fumador",FALSE,7.65,NA,FALSE,FALSE
+"XXRIL","0","hombre",79,"no fumador",TRUE,4.49,NA,TRUE,FALSE
+"JSKKU","1","mujer",58,"no fumador",FALSE,11.24,NA,TRUE,FALSE
+"JKNIU","0","mujer",59,"fumador > 2 cajetillas",FALSE,6.13,NA,FALSE,TRUE
+"WFDOR","0","mujer",29,"no fumador",FALSE,2,16,FALSE,FALSE
+"SJURR","1","hombre",60,"fumador",FALSE,8.98,NA,FALSE,TRUE
+"BHICW","1","mujer",45,"ex fumador",FALSE,5.54,NA,FALSE,TRUE
+"SDZBF","0","mujer",55,"no fumador",FALSE,2.75,NA,FALSE,FALSE
+"SZALH","0","hombre",61,"no fumador",FALSE,3.4,21,TRUE,FALSE
+"IQVBF","0","mujer",80,"fumador",FALSE,4.83,NA,FALSE,TRUE
+"SNQGH","0","hombre",31,"fumador",FALSE,3.64,NA,FALSE,TRUE
+"RVBUC","1","hombre",66,"no fumador",TRUE,20.91,10,TRUE,FALSE
+"BFEBR","0","mujer",61,"fumador",FALSE,3.26,NA,TRUE,TRUE
+"QDECB","0","hombre",92,"ex fumador",FALSE,5.56,NA,FALSE,TRUE
+"FNFVF","1","mujer",68,"ex fumador",FALSE,14.06,NA,TRUE,TRUE
+"LRAFV","1","hombre",75,"ex fumador",FALSE,10.59,NA,FALSE,TRUE
+"PTTWJ","0","hombre",56,"fumador",FALSE,11.91,NA,TRUE,TRUE
+"RSOJQ","0","hombre",62,"no fumador",FALSE,5.14,NA,FALSE,FALSE
+"HJJGU","0","hombre",33,"no fumador",FALSE,1.69,NA,FALSE,FALSE
+"BYFGQ","1","mujer",54,"no fumador",FALSE,17.53,NA,TRUE,FALSE
+"DLXJH","0","hombre",49,"ex fumador",FALSE,4.23,NA,FALSE,TRUE
+"AAKOE","1","hombre",74,"no fumador",FALSE,7.28,NA,FALSE,FALSE
+"YGGHB","1","hombre",69,"fumador",FALSE,31.13,NA,FALSE,TRUE
+"QTFPW","0","mujer",60,"no fumador",FALSE,15.83,NA,TRUE,FALSE
+"HHEKS","1","mujer",26,"no fumador",FALSE,17.58,NA,TRUE,FALSE
+"BVHYP","0","mujer",51,"fumador",FALSE,9.73,NA,FALSE,TRUE
+"QDLFL","0","mujer",62,"fumador",FALSE,4.21,17,TRUE,TRUE
+"HPHGJ","0","mujer",65,"no fumador",FALSE,11.49,8,FALSE,FALSE
+"XLJMG","0","mujer",48,"no fumador",FALSE,7.09,31,TRUE,FALSE
+"EQKEV","0","hombre",65,"no fumador",TRUE,4.45,NA,FALSE,FALSE
+"CEVTT","0","mujer",47,"fumador",FALSE,2.36,NA,FALSE,TRUE
+"UTSDD","0","hombre",57,"ex fumador",FALSE,4.2,NA,FALSE,TRUE
+"DBGPN","1","hombre",57,"fumador",FALSE,43.58,NA,FALSE,TRUE
+"PSAQS","0","hombre",59,"fumador > 2 cajetillas",TRUE,3.73,NA,TRUE,TRUE
+"LOTFS","1","mujer",58,"fumador",TRUE,25.86,7,FALSE,TRUE
+"CRXEP","0","hombre",35,"no fumador",FALSE,2.79,NA,FALSE,FALSE
+"XZGSM","1","mujer",30,"fumador",TRUE,14.63,NA,FALSE,TRUE
+"ROBKC","0","mujer",55,"no fumador",TRUE,5.4,NA,TRUE,FALSE
+"KMNJW","0","mujer",52,"no fumador",FALSE,7.81,NA,FALSE,FALSE
+"GFJMJ","0","hombre",64,"no fumador",FALSE,5.9,NA,FALSE,FALSE
+"CVZZX","1","hombre",55,"no fumador",FALSE,17.91,NA,TRUE,FALSE
+"DYZDU","0","hombre",35,"ex fumador",FALSE,8.59,51,TRUE,TRUE
+"NRPAG","0","mujer",30,"no fumador",TRUE,6.23,NA,FALSE,FALSE
+"PRVNE","0","hombre",41,"fumador",TRUE,6.48,13,FALSE,TRUE
+"WOXMJ","1","mujer",90,"no fumador",FALSE,15.65,NA,FALSE,FALSE
+"DBKJW","1","mujer",60,"no fumador",TRUE,38.02,NA,TRUE,FALSE
+"RNZAS","0","hombre",47,"no fumador",FALSE,2.65,NA,TRUE,FALSE
+"KTRTD","1","hombre",74,"ex fumador",FALSE,36.36,NA,FALSE,TRUE
+"ABEWN","1","hombre",57,"no fumador",FALSE,15.95,NA,FALSE,FALSE
+"RQACV","1","hombre",47,"fumador",FALSE,9.06,NA,FALSE,TRUE
+"WHVLH","1","hombre",39,"fumador",FALSE,5.35,53,FALSE,TRUE
+"OLIZF","1","mujer",56,"no fumador",TRUE,10.65,NA,FALSE,FALSE
+"XSTGR","0","mujer",46,"no fumador",FALSE,6.64,NA,FALSE,FALSE
+"LZSIT","0","mujer",54,"no fumador",FALSE,2.94,NA,TRUE,FALSE
+"LQZVU","0","hombre",38,"no fumador",FALSE,4.11,NA,FALSE,FALSE
+"PXQWA","1","mujer",67,"fumador",FALSE,44.24,NA,FALSE,TRUE
+"MTCBO","0","hombre",50,"no fumador",FALSE,4.67,NA,FALSE,FALSE
+"XWNEI","0","hombre",60,"ex fumador",FALSE,5.12,NA,FALSE,TRUE
+"LFXLY","0","hombre",73,"no fumador",FALSE,10.01,NA,FALSE,FALSE
+"SAQYT","0","mujer",48,"no fumador",FALSE,8.11,NA,TRUE,FALSE
+"TJLSX","1","hombre",71,"fumador",TRUE,10.79,NA,FALSE,TRUE
+"YXMND","0","hombre",44,"fumador",TRUE,3.84,NA,FALSE,TRUE
+"KSPLM","0","hombre",51,"no fumador",FALSE,3.03,NA,FALSE,FALSE
+"UTLMK","0","hombre",70,"no fumador",FALSE,6.88,4,TRUE,FALSE
+"JLHRG","0","mujer",52,"no fumador",FALSE,8.25,NA,TRUE,FALSE
+"GFLDE","1","hombre",63,"fumador",FALSE,16.18,NA,FALSE,TRUE
+"PJJFG","0","mujer",55,"no fumador",FALSE,3.06,NA,FALSE,FALSE
+"EQUPD","0","mujer",59,"ex fumador",FALSE,4.85,NA,FALSE,TRUE
+"VUZJP","1","hombre",50,"fumador",FALSE,23.14,39,FALSE,TRUE
+"FFNXA","0","mujer",49,"no fumador",FALSE,4.67,NA,FALSE,FALSE
+"KCRPH","1","hombre",48,"fumador > 2 cajetillas",FALSE,12.76,NA,FALSE,TRUE
+"CBNKX","1","mujer",84,"no fumador",FALSE,24.14,NA,TRUE,FALSE
+"EZPFE","0","hombre",39,"no fumador",FALSE,4.4,NA,FALSE,FALSE
+"DMBSI","1","hombre",55,"no fumador",FALSE,10.14,NA,TRUE,FALSE
+"KHZJI","0","hombre",72,"no fumador",FALSE,8,NA,TRUE,FALSE
+"TUUGO","1","mujer",81,"fumador",FALSE,16.44,NA,TRUE,TRUE
+"ZRCVY","1","mujer",54,"fumador",FALSE,16.87,NA,FALSE,TRUE
+"YOLWY","1","mujer",54,"no fumador",FALSE,42.86,NA,TRUE,FALSE
+"UTHUG","1","mujer",53,"fumador",TRUE,3.45,NA,TRUE,TRUE
+"DMDXZ","0","hombre",25,"ex fumador",FALSE,2.2,NA,FALSE,TRUE
+"BNYFM","0","hombre",34,"no fumador",FALSE,1.99,NA,FALSE,FALSE
+"LRGBS","0","mujer",67,"ex fumador",FALSE,9.64,NA,FALSE,TRUE
+"EXFNJ","0","mujer",78,"fumador",FALSE,4.06,NA,TRUE,TRUE
+"UNMRE","0","hombre",50,"no fumador",FALSE,7.7,NA,TRUE,FALSE
+"BAMOH","0","hombre",47,"fumador > 2 cajetillas",TRUE,6.86,NA,FALSE,TRUE
+"DCFPK","0","hombre",38,"no fumador",FALSE,7.62,NA,TRUE,FALSE
+"RZFHF","1","hombre",66,"fumador",FALSE,14.47,NA,TRUE,TRUE
+"GFDHL","0","mujer",53,"no fumador",FALSE,5.78,NA,TRUE,FALSE
+"OSPTA","1","mujer",27,"no fumador",FALSE,14.92,NA,FALSE,FALSE
+"DYCHA","1","mujer",79,"no fumador",TRUE,6.58,NA,TRUE,FALSE
+"NHWRL","1","hombre",89,"fumador > 2 cajetillas",TRUE,7.54,NA,FALSE,TRUE
+"EHPAQ","1","mujer",60,"no fumador",FALSE,45.97,NA,FALSE,FALSE
+"PTHPU","1","hombre",66,"fumador",FALSE,12.15,NA,TRUE,TRUE
+"QIDVS","0","mujer",46,"ex fumador",FALSE,2.87,NA,TRUE,TRUE
+"RQEPZ","0","hombre",33,"fumador > 2 cajetillas",FALSE,1.78,NA,FALSE,TRUE
+"KQAKH","0","hombre",47,"no fumador",TRUE,9.24,NA,TRUE,FALSE
+"HJOHI","1","mujer",63,"ex fumador",TRUE,15.53,NA,TRUE,TRUE
+"BBNKF","0","hombre",51,"fumador > 2 cajetillas",FALSE,3.2,NA,FALSE,TRUE
+"DDQFV","1","hombre",49,"fumador",FALSE,16.85,NA,FALSE,TRUE
+"OACUP","0","hombre",67,"no fumador",TRUE,8.44,NA,FALSE,FALSE
+"UZHKB","1","hombre",77,"fumador",FALSE,11.24,NA,FALSE,TRUE
+"ZZALX","1","mujer",52,"no fumador",FALSE,11.61,16,FALSE,FALSE
+"BQAHI","0","hombre",57,"fumador",TRUE,3.35,NA,FALSE,TRUE
+"CWZUI","0","hombre",57,"fumador",FALSE,6,NA,TRUE,TRUE
+"AIIEH","1","hombre",80,"no fumador",FALSE,13.98,NA,FALSE,FALSE
+"OQNOF","0","hombre",50,"ex fumador",FALSE,3.44,NA,FALSE,TRUE
+"VUIKB","1","mujer",45,"no fumador",FALSE,21.88,11,TRUE,FALSE
+"XFIMQ","1","hombre",97,"no fumador",FALSE,13.8,NA,FALSE,FALSE
+"XXIMH","0","hombre",53,"ex fumador",FALSE,7.44,NA,FALSE,TRUE
+"XCSWI","1","mujer",64,"no fumador",FALSE,4.61,NA,FALSE,FALSE
+"HXZQS","0","hombre",73,"fumador",FALSE,10.01,NA,FALSE,TRUE
+"QHPDQ","0","hombre",50,"fumador",FALSE,2.9,NA,FALSE,TRUE
+"IGOJM","0","mujer",50,"no fumador",FALSE,2.62,18,FALSE,FALSE
+"SPTKS","0","hombre",51,"no fumador",FALSE,3.55,NA,FALSE,FALSE
+"AVAIP","0","hombre",77,"no fumador",TRUE,6.32,NA,FALSE,FALSE
+"DKLMI","0","mujer",66,"no fumador",FALSE,7.2,NA,FALSE,FALSE
+"CYCXK","1","mujer",49,"fumador > 2 cajetillas",FALSE,3.93,NA,TRUE,TRUE
+"HEVTU","0","mujer",65,"fumador > 2 cajetillas",FALSE,4.92,NA,FALSE,TRUE
+"RJEQX","1","hombre",72,"fumador",FALSE,21.73,5,TRUE,TRUE
+"KASBM","1","mujer",55,"fumador",FALSE,21.3,NA,FALSE,TRUE
+"MZVMT","0","hombre",90,"no fumador",FALSE,10.39,NA,FALSE,FALSE
+"WJTPQ","0","mujer",41,"fumador",FALSE,17.14,NA,FALSE,TRUE
+"HFUXO","0","hombre",34,"fumador > 2 cajetillas",FALSE,4.93,NA,FALSE,TRUE
+"ANTKY","0","mujer",42,"fumador",FALSE,3.07,66,TRUE,TRUE
+"ZVJMG","0","mujer",43,"fumador",FALSE,2.95,NA,FALSE,TRUE
+"KZWWV","0","hombre",83,"no fumador",FALSE,4.5,NA,TRUE,FALSE
+"TJKSK","0","hombre",53,"fumador > 2 cajetillas",FALSE,2.99,NA,FALSE,TRUE
+"MOFAF","0","mujer",53,"no fumador",FALSE,3.9,NA,TRUE,FALSE
+"ZEGDW","0","hombre",62,"no fumador",FALSE,6.26,NA,TRUE,FALSE
+"FVSNF","0","hombre",87,"no fumador",TRUE,9.72,NA,FALSE,FALSE
+"TRMSM","0","hombre",36,"ex fumador",FALSE,8.51,NA,FALSE,TRUE
+"FQTBF","1","hombre",57,"no fumador",FALSE,20.01,16,FALSE,FALSE
+"SACBR","0","mujer",66,"no fumador",FALSE,5.09,NA,FALSE,FALSE
+"TIZMM","0","hombre",51,"no fumador",TRUE,5.87,NA,TRUE,FALSE
+"YJDHX","0","mujer",32,"no fumador",FALSE,3.74,14,TRUE,FALSE
+"CBJGI","0","hombre",47,"fumador",FALSE,5.05,NA,TRUE,TRUE
+"IEHUG","0","mujer",68,"no fumador",FALSE,8.13,NA,FALSE,FALSE
+"WANMU","0","mujer",65,"fumador > 2 cajetillas",TRUE,8.15,NA,FALSE,TRUE
+"WKGPV","0","mujer",67,"no fumador",TRUE,9.33,NA,FALSE,FALSE
+"QRQEK","0","hombre",63,"no fumador",FALSE,7.24,NA,FALSE,FALSE
+"FDQUG","0","hombre",42,"ex fumador",FALSE,7.02,NA,FALSE,TRUE
+"TLNVU","0","mujer",66,"no fumador",FALSE,7.13,NA,FALSE,FALSE
+"COVJO","0","hombre",59,"fumador",FALSE,8.99,NA,TRUE,TRUE
+"XOEFU","0","hombre",59,"ex fumador",FALSE,7.92,NA,TRUE,TRUE
+"RSRKH","0","mujer",34,"no fumador",FALSE,11.99,NA,TRUE,FALSE
+"BMLHP","1","hombre",66,"no fumador",FALSE,11.97,NA,FALSE,FALSE
+"XMGRV","1","mujer",67,"fumador",FALSE,11.48,NA,FALSE,TRUE
+"GDCVU","0","hombre",70,"no fumador",TRUE,7.48,NA,FALSE,FALSE
+"ONDWX","0","mujer",43,"no fumador",FALSE,4.24,22,FALSE,FALSE
+"MCYUF","0","mujer",49,"no fumador",FALSE,10.19,NA,FALSE,FALSE
+"ETPWJ","0","hombre",54,"ex fumador",TRUE,3.74,NA,FALSE,TRUE
+"HTHZB","0","hombre",32,"no fumador",FALSE,7.02,NA,TRUE,FALSE
+"CIWIF","1","hombre",67,"fumador",FALSE,9.3,NA,FALSE,TRUE
+"QJPJK","1","mujer",68,"no fumador",FALSE,57.4,NA,FALSE,FALSE
+"QNSJD","0","mujer",48,"no fumador",TRUE,3.4,NA,FALSE,FALSE
+"GSOKV","0","hombre",42,"no fumador",FALSE,3.04,NA,FALSE,FALSE
+"SFMYP","0","mujer",50,"no fumador",FALSE,3.07,NA,FALSE,FALSE
+"FYVDG","1","hombre",87,"no fumador",FALSE,9.47,NA,FALSE,FALSE
+"PLSRB","0","hombre",69,"no fumador",FALSE,5.88,NA,FALSE,FALSE
+"HJSKN","0","hombre",40,"no fumador",FALSE,2.25,NA,FALSE,FALSE
+"MXQIT","0","hombre",87,"ex fumador",FALSE,7.42,NA,FALSE,TRUE
+"WFEGL","1","hombre",73,"fumador",FALSE,23.93,42,TRUE,TRUE
+"GZWUG","1","mujer",58,"ex fumador",TRUE,7.07,NA,FALSE,TRUE
+"VBFYY","1","hombre",71,"fumador",FALSE,12.08,NA,FALSE,TRUE
+"JGDZZ","0","hombre",49,"fumador > 2 cajetillas",FALSE,3.27,NA,FALSE,TRUE
+"ZBBFC","0","hombre",50,"no fumador",TRUE,3.75,NA,FALSE,FALSE
+"BGCKK","0","mujer",63,"fumador",FALSE,5.29,NA,FALSE,TRUE
+"AMLDL","1","mujer",75,"no fumador",FALSE,14.19,NA,FALSE,FALSE
+"TRGFC","0","hombre",70,"no fumador",FALSE,4.03,NA,FALSE,FALSE
+"BCTCC","1","hombre",74,"ex fumador",TRUE,14.44,NA,TRUE,TRUE
+"TTMDR","1","hombre",58,"fumador",FALSE,28.34,NA,FALSE,TRUE
+"IHYLF","0","mujer",56,"ex fumador",FALSE,7.04,NA,TRUE,TRUE
+"ZKXGE","0","mujer",61,"no fumador",FALSE,4.82,NA,TRUE,FALSE
+"XFIEV","0","hombre",70,"no fumador",TRUE,3.52,NA,FALSE,FALSE
+"HDXMT","0","hombre",59,"no fumador",FALSE,11.2,NA,FALSE,FALSE
+"JJJSE","0","hombre",58,"no fumador",TRUE,4.74,NA,FALSE,FALSE
+"MMOGE","1","mujer",35,"fumador",FALSE,15.47,NA,FALSE,TRUE
+"AYKRC","0","mujer",56,"fumador",TRUE,4.57,NA,TRUE,TRUE
+"KZBNX","1","mujer",66,"fumador",FALSE,33.92,NA,FALSE,TRUE
+"GRJFM","1","hombre",37,"fumador",FALSE,39.86,NA,TRUE,TRUE
+"XTZWF","0","mujer",61,"no fumador",FALSE,3.66,17,FALSE,FALSE
+"DMKOC","1","mujer",56,"no fumador",FALSE,11.59,NA,FALSE,FALSE
+"NOLSL","1","hombre",83,"fumador",TRUE,15.6,NA,FALSE,TRUE
+"UKDOU","1","hombre",53,"fumador",FALSE,43.03,NA,TRUE,TRUE
+"YTWNI","1","mujer",65,"fumador",FALSE,8.8,NA,FALSE,TRUE
+"NTCTJ","1","hombre",64,"fumador",FALSE,29.87,NA,FALSE,TRUE
+"VZFTB","0","mujer",58,"ex fumador",FALSE,4.37,NA,FALSE,TRUE
+"PKWLC","0","hombre",63,"no fumador",FALSE,5.05,NA,FALSE,FALSE
+"FUOOA","0","mujer",46,"no fumador",FALSE,3.77,NA,FALSE,FALSE
+"XUWDO","1","mujer",70,"ex fumador",FALSE,17.92,12,FALSE,TRUE
+"EMDPD","0","mujer",47,"no fumador",FALSE,3.02,NA,FALSE,FALSE
+"SOTWX","0","hombre",51,"no fumador",FALSE,4.88,NA,FALSE,FALSE
+"JDDSH","1","mujer",66,"fumador",TRUE,22.45,NA,FALSE,TRUE
+"MLUOG","0","mujer",69,"no fumador",FALSE,3.64,NA,TRUE,FALSE
+"RPGAT","0","hombre",36,"no fumador",FALSE,2.05,NA,FALSE,FALSE
+"WXZWU","0","hombre",61,"no fumador",FALSE,6.32,NA,FALSE,FALSE
+"JEYPQ","1","hombre",52,"fumador > 2 cajetillas",FALSE,18.27,NA,TRUE,TRUE
+"IWJLV","1","hombre",52,"fumador",FALSE,43.99,NA,FALSE,TRUE
+"CRDXO","0","hombre",33,"no fumador",FALSE,2.19,NA,TRUE,FALSE
+"NNEQY","0","mujer",29,"no fumador",FALSE,4.53,NA,TRUE,FALSE
+"KSMHA","1","hombre",49,"no fumador",FALSE,10.67,NA,FALSE,FALSE
+"YFHPR","0","hombre",68,"fumador",FALSE,3.87,NA,FALSE,TRUE
+"IFWYI","0","hombre",33,"ex fumador",FALSE,2.23,7,FALSE,TRUE
+"RZQDO","0","mujer",62,"no fumador",FALSE,5.03,NA,FALSE,FALSE
+"GBVDS","0","hombre",70,"no fumador",FALSE,5.54,NA,FALSE,FALSE
+"JEQWQ","1","hombre",56,"no fumador",TRUE,9.62,NA,FALSE,FALSE
+"JVXHL","0","mujer",33,"no fumador",FALSE,2.03,NA,FALSE,FALSE
+"FWINP","1","mujer",58,"no fumador",FALSE,5.7,NA,FALSE,FALSE
+"JKOOD","0","hombre",49,"no fumador",TRUE,5.71,7,FALSE,FALSE
+"CNKNJ","0","mujer",49,"no fumador",FALSE,6.61,NA,FALSE,FALSE
+"TMTEP","1","mujer",62,"no fumador",FALSE,19.74,NA,TRUE,FALSE
+"FOWNU","0","mujer",59,"fumador",FALSE,8.53,NA,TRUE,TRUE
+"WMRUN","0","mujer",66,"no fumador",FALSE,8.47,NA,TRUE,FALSE
+"KSMIT","1","mujer",59,"no fumador",FALSE,26.52,NA,FALSE,FALSE
+"GYCPJ","0","mujer",55,"no fumador",FALSE,5.8,NA,FALSE,FALSE
+"HZRQN","0","hombre",43,"no fumador",FALSE,2.16,NA,TRUE,FALSE
+"AZWIW","0","hombre",58,"no fumador",TRUE,3.28,NA,FALSE,FALSE
+"HYESH","1","hombre",77,"no fumador",FALSE,38.59,NA,FALSE,FALSE
+"UQLTZ","1","hombre",48,"fumador",FALSE,8.29,NA,FALSE,TRUE
+"QKSDJ","0","hombre",61,"ex fumador",FALSE,3.26,NA,FALSE,TRUE
+"LACUY","0","hombre",49,"fumador > 2 cajetillas",FALSE,8.06,NA,TRUE,TRUE
+"MUQYQ","0","hombre",58,"fumador",TRUE,3.19,NA,FALSE,TRUE
+"RFCIM","0","hombre",68,"no fumador",FALSE,5.27,NA,TRUE,FALSE
+"CAJYW","0","mujer",61,"fumador",FALSE,7.83,NA,TRUE,TRUE
+"WSWDI","1","hombre",45,"no fumador",FALSE,14.82,NA,FALSE,FALSE
+"WCEAH","0","hombre",33,"fumador > 2 cajetillas",FALSE,2.68,NA,TRUE,TRUE
+"JRWTE","0","mujer",35,"ex fumador",TRUE,4.15,NA,FALSE,TRUE
+"XXSVH","0","hombre",55,"no fumador",FALSE,6.31,NA,FALSE,FALSE
+"SKSCU","0","mujer",45,"fumador",FALSE,4.33,NA,FALSE,TRUE
+"FSZVI","0","mujer",48,"no fumador",FALSE,4,18,FALSE,FALSE
+"JMAAP","0","mujer",43,"no fumador",FALSE,2.2,NA,FALSE,FALSE
+"MVQHO","0","hombre",81,"ex fumador",FALSE,4.94,NA,FALSE,TRUE
+"PCUSP","1","mujer",59,"fumador",FALSE,7.66,NA,FALSE,TRUE
+"POSRL","1","hombre",95,"no fumador",FALSE,38.8,NA,FALSE,FALSE
+"TOILQ","0","hombre",66,"no fumador",FALSE,16.54,NA,FALSE,FALSE
+"MTDWR","1","hombre",62,"fumador",FALSE,8.75,NA,FALSE,TRUE
+"HSCYJ","0","mujer",39,"no fumador",FALSE,4.86,25,TRUE,FALSE
+"PLPKH","0","mujer",43,"no fumador",FALSE,3.02,NA,FALSE,FALSE
+"DMEHJ","0","mujer",60,"fumador",FALSE,4.51,NA,FALSE,TRUE
+"CHRLL","0","hombre",50,"no fumador",FALSE,4.15,NA,TRUE,FALSE
+"CWTZY","1","mujer",57,"ex fumador",FALSE,9.93,NA,FALSE,TRUE
+"FFSCN","0","mujer",52,"fumador",FALSE,13.34,NA,FALSE,TRUE
+"ETYSJ","0","hombre",52,"fumador",FALSE,5.21,NA,TRUE,TRUE
+"OEQVO","0","hombre",49,"no fumador",FALSE,5.11,NA,TRUE,FALSE
+"IOCBD","0","mujer",67,"no fumador",FALSE,6.74,NA,FALSE,FALSE
+"WBNJA","1","mujer",56,"fumador",TRUE,12.72,NA,FALSE,TRUE
+"LZVHT","0","mujer",70,"no fumador",FALSE,7.02,NA,FALSE,FALSE
+"PDMVE","0","mujer",41,"fumador",TRUE,8.59,NA,FALSE,TRUE
+"AILND","1","hombre",30,"fumador",FALSE,5.99,NA,TRUE,TRUE
+"PAUOE","1","hombre",74,"fumador",FALSE,9.59,NA,FALSE,TRUE
+"YPRKK","0","mujer",71,"no fumador",TRUE,7.08,NA,FALSE,FALSE
+"GBGMF","0","hombre",65,"no fumador",FALSE,4.79,NA,TRUE,FALSE
+"YVJXK","1","hombre",71,"fumador",TRUE,51.15,NA,FALSE,TRUE
+"IFKCL","1","mujer",71,"no fumador",FALSE,9.33,NA,FALSE,FALSE
+"XZRSA","0","hombre",55,"no fumador",TRUE,4.07,NA,TRUE,FALSE
+"CNAIB","1","mujer",28,"no fumador",FALSE,14.19,NA,TRUE,FALSE
+"YKOJZ","0","hombre",57,"no fumador",FALSE,3.32,NA,TRUE,FALSE
+"YCCSR","1","hombre",72,"no fumador",FALSE,34.11,NA,FALSE,FALSE
+"JAVAR","1","mujer",85,"fumador",FALSE,16.46,NA,TRUE,TRUE
+"QWTHS","0","mujer",57,"no fumador",FALSE,6.76,NA,FALSE,FALSE
+"NDEEQ","1","mujer",57,"fumador",TRUE,19.32,NA,FALSE,TRUE
+"PCVFV","0","mujer",61,"no fumador",TRUE,4.03,NA,FALSE,FALSE
+"FWDIZ","0","hombre",57,"no fumador",FALSE,3.93,NA,TRUE,FALSE
+"OXAMS","1","mujer",19,"fumador",FALSE,15.09,NA,FALSE,TRUE
+"JHYCV","0","hombre",65,"no fumador",FALSE,3.87,NA,FALSE,FALSE
+"HWDCC","1","hombre",54,"ex fumador",TRUE,15.81,NA,FALSE,TRUE
+"XZDRI","0","hombre",70,"fumador",FALSE,5.86,NA,FALSE,TRUE
+"ETHIZ","0","mujer",68,"fumador > 2 cajetillas",TRUE,4.89,NA,TRUE,TRUE
+"OJHGL","0","mujer",69,"no fumador",FALSE,4.94,NA,FALSE,FALSE
+"AAEUX","0","hombre",73,"no fumador",FALSE,7.62,NA,FALSE,FALSE
+"OMLMK","0","mujer",42,"fumador",FALSE,3.14,NA,FALSE,TRUE
+"VLWAF","0","hombre",47,"no fumador",FALSE,6.23,NA,FALSE,FALSE
+"OHZXM","0","mujer",29,"fumador",FALSE,4.75,NA,FALSE,TRUE
+"RFOTS","0","mujer",54,"no fumador",TRUE,6.8,6,FALSE,FALSE
+"ZDFAT","1","hombre",45,"fumador",TRUE,24.92,NA,TRUE,TRUE
+"WVZKK","1","hombre",59,"no fumador",FALSE,18.62,NA,TRUE,FALSE
+"EFWET","0","mujer",77,"no fumador",FALSE,4.96,NA,FALSE,FALSE
+"VIKBO","0","mujer",54,"fumador",TRUE,6.62,NA,FALSE,TRUE
+"BRMWN","0","hombre",65,"no fumador",FALSE,4.49,NA,TRUE,FALSE
+"PYSED","1","hombre",64,"fumador",FALSE,23.07,NA,FALSE,TRUE
+"RLLXY","1","mujer",58,"fumador",TRUE,20.69,NA,FALSE,TRUE
+"XDJMO","1","hombre",42,"fumador",TRUE,27.53,NA,FALSE,TRUE
+"BYGNE","0","mujer",60,"no fumador",TRUE,7.67,NA,FALSE,FALSE
+"VYULQ","1","hombre",63,"no fumador",FALSE,19.47,NA,TRUE,FALSE
+"BMVTZ","0","hombre",58,"no fumador",FALSE,3.74,NA,FALSE,FALSE
+"TNNIO","0","hombre",68,"no fumador",FALSE,10.83,24,FALSE,FALSE
+"UCLVW","0","hombre",66,"ex fumador",FALSE,3.52,NA,FALSE,TRUE
+"FIMDQ","0","hombre",64,"no fumador",FALSE,6.83,NA,FALSE,FALSE
+"LBXFU","0","hombre",57,"fumador",TRUE,3.34,NA,TRUE,TRUE
+"CBTJC","1","hombre",37,"no fumador",FALSE,33,21,FALSE,FALSE
+"AWPWB","1","hombre",62,"fumador",FALSE,13.64,NA,FALSE,TRUE
+"CCOIJ","0","hombre",75,"no fumador",FALSE,4.42,NA,FALSE,FALSE
+"AUMLT","1","hombre",35,"no fumador",FALSE,21.85,NA,TRUE,FALSE
+"IGIMV","0","hombre",75,"ex fumador",FALSE,4.17,NA,TRUE,TRUE
+"QRWXA","0","hombre",62,"no fumador",FALSE,7.03,NA,FALSE,FALSE
+"XFZIT","1","mujer",66,"no fumador",FALSE,36.5,NA,FALSE,FALSE
+"KUIDY","0","hombre",58,"fumador",FALSE,3.93,NA,TRUE,TRUE
+"MSYFY","1","mujer",57,"no fumador",FALSE,44.84,NA,TRUE,FALSE
+"GLYTG","0","hombre",46,"fumador",FALSE,6.94,NA,TRUE,TRUE
+"RHOIK","0","hombre",55,"no fumador",TRUE,6.28,NA,FALSE,FALSE
+"LPXSV","0","hombre",50,"no fumador",FALSE,3.37,6,FALSE,FALSE
+"GOXBH","0","hombre",75,"fumador",FALSE,7.34,NA,TRUE,TRUE
+"KXDRF","1","hombre",61,"no fumador",TRUE,35.86,NA,TRUE,FALSE
+"IXBVA","0","hombre",59,"no fumador",FALSE,8.53,NA,FALSE,FALSE
+"RJCWO","0","hombre",64,"no fumador",FALSE,3.89,NA,FALSE,FALSE
+"PFTLW","1","hombre",63,"fumador",TRUE,8.26,NA,FALSE,TRUE
+"NIVBV","1","mujer",89,"no fumador",TRUE,11.38,NA,FALSE,FALSE
+"ZLOAE","1","hombre",70,"fumador",FALSE,15.48,NA,FALSE,TRUE
+"RVJWU","1","mujer",32,"no fumador",TRUE,24.79,NA,FALSE,FALSE
+"NCDOG","0","mujer",56,"no fumador",FALSE,4.93,57,FALSE,FALSE
+"PMOIC","1","mujer",61,"no fumador",TRUE,13.19,81,FALSE,FALSE
+"TODGZ","0","hombre",43,"fumador",TRUE,4.02,NA,TRUE,TRUE
+"VODCX","0","hombre",55,"ex fumador",TRUE,3.08,NA,FALSE,TRUE
+"ITCZZ","1","mujer",59,"no fumador",FALSE,24.92,NA,FALSE,FALSE
+"BAKUC","1","hombre",62,"fumador",FALSE,10.61,NA,TRUE,TRUE
+"UXUBD","1","mujer",73,"fumador",FALSE,19.77,NA,TRUE,TRUE
+"ETYMB","0","hombre",45,"fumador > 2 cajetillas",FALSE,5.05,NA,FALSE,TRUE
+"WKVRK","0","mujer",79,"no fumador",TRUE,6.25,5,FALSE,FALSE
+"RLJGN","0","mujer",77,"fumador",FALSE,5.43,NA,FALSE,TRUE
+"WPNVU","1","mujer",71,"no fumador",FALSE,7.85,NA,FALSE,FALSE
+"YZVUO","0","mujer",45,"no fumador",FALSE,5.22,NA,TRUE,FALSE
+"QYSTX","0","hombre",62,"no fumador",FALSE,14.12,NA,FALSE,FALSE
+"KXNDW","0","hombre",52,"fumador > 2 cajetillas",FALSE,6.38,NA,FALSE,TRUE
+"UMAEU","0","mujer",60,"no fumador",FALSE,8.86,NA,FALSE,FALSE
+"GGIZV","0","mujer",56,"ex fumador",FALSE,2.97,NA,FALSE,TRUE
+"PQHOV","0","hombre",69,"fumador",TRUE,5.39,NA,FALSE,TRUE
+"WMQBS","1","mujer",57,"fumador",FALSE,7.29,NA,TRUE,TRUE
+"NAEAJ","1","hombre",57,"no fumador",FALSE,6.59,NA,FALSE,FALSE
+"DMGLJ","0","mujer",39,"no fumador",FALSE,4.53,22,TRUE,FALSE
+"TOKYL","0","mujer",58,"no fumador",FALSE,4.03,NA,FALSE,FALSE
+"ICYEO","0","hombre",41,"no fumador",FALSE,2.99,NA,FALSE,FALSE
+"IOCMU","0","hombre",58,"no fumador",FALSE,6.77,NA,FALSE,FALSE
+"FWYMW","0","mujer",76,"fumador",TRUE,4.08,NA,TRUE,TRUE
+"NAADQ","1","mujer",57,"no fumador",FALSE,6.48,NA,FALSE,FALSE
+"LOZEC","0","hombre",44,"no fumador",FALSE,2.23,NA,TRUE,FALSE
+"XJVPA","1","hombre",58,"no fumador",FALSE,36.29,NA,FALSE,FALSE
+"LXIKE","0","mujer",62,"no fumador",FALSE,3.16,NA,FALSE,FALSE
+"AGAHK","0","mujer",23,"no fumador",FALSE,2.03,NA,FALSE,FALSE
+"ZGPCK","0","hombre",69,"no fumador",TRUE,5.04,NA,FALSE,FALSE
+"KTUTL","0","mujer",39,"no fumador",FALSE,2.49,NA,FALSE,FALSE
+"NWUGD","0","hombre",32,"fumador",FALSE,2.59,NA,TRUE,TRUE
+"HIGAK","1","mujer",58,"no fumador",TRUE,18.75,NA,FALSE,FALSE
+"TNGOJ","1","mujer",68,"no fumador",FALSE,42.64,NA,FALSE,FALSE
+"BNCAZ","1","mujer",69,"no fumador",FALSE,21.44,NA,TRUE,FALSE
+"LJPJS","1","mujer",62,"fumador",FALSE,39.21,NA,FALSE,TRUE
+"YFBPU","0","hombre",79,"no fumador",FALSE,4.98,NA,TRUE,FALSE
+"BJSDC","0","mujer",71,"no fumador",FALSE,10.56,NA,FALSE,FALSE
+"NYULH","0","hombre",65,"no fumador",TRUE,4.75,NA,FALSE,FALSE
+"GKWTN","1","mujer",51,"ex fumador",FALSE,14.14,NA,TRUE,TRUE
+"DIARQ","1","hombre",49,"ex fumador",FALSE,18.6,NA,FALSE,TRUE
+"JFEFX","0","mujer",77,"no fumador",TRUE,4.53,NA,TRUE,FALSE
+"YJKUG","0","mujer",76,"no fumador",FALSE,4.38,NA,TRUE,FALSE
+"ZDAQS","1","mujer",71,"ex fumador",FALSE,25.18,NA,FALSE,TRUE
+"XAFUP","0","hombre",46,"no fumador",FALSE,5.56,NA,TRUE,FALSE
+"WYEQM","1","mujer",41,"no fumador",FALSE,7.63,NA,FALSE,FALSE
+"MAVLP","0","hombre",48,"no fumador",FALSE,4.58,NA,FALSE,FALSE
+"TOAJB","1","hombre",88,"ex fumador",FALSE,12.35,NA,TRUE,TRUE
+"UGRXY","0","mujer",57,"no fumador",FALSE,6,NA,FALSE,FALSE
+"EYZZR","1","mujer",60,"no fumador",FALSE,7.64,NA,FALSE,FALSE
+"ZSDSL","0","hombre",50,"no fumador",TRUE,5.74,NA,FALSE,FALSE
+"BGSFH","0","hombre",55,"no fumador",FALSE,3.85,NA,FALSE,FALSE
+"PWKNU","1","hombre",84,"no fumador",TRUE,13.8,NA,FALSE,FALSE
+"HJSIJ","0","hombre",48,"no fumador",FALSE,2.88,NA,FALSE,FALSE
+"FBLNV","0","hombre",64,"no fumador",FALSE,6.01,NA,TRUE,FALSE
+"UAMOF","0","hombre",51,"no fumador",FALSE,13.45,15,FALSE,FALSE
+"YHBAE","1","hombre",64,"no fumador",FALSE,20.54,NA,FALSE,FALSE
+"JSGBZ","1","mujer",31,"no fumador",FALSE,24.76,NA,TRUE,FALSE
+"WAIVE","1","mujer",39,"no fumador",FALSE,14.35,NA,FALSE,FALSE
+"DMIMO","0","mujer",60,"fumador",TRUE,3.06,NA,FALSE,TRUE
+"LDFUT","0","hombre",65,"no fumador",FALSE,12.44,NA,FALSE,FALSE
+"BMLBS","1","hombre",52,"no fumador",FALSE,7.49,NA,FALSE,FALSE
+"RIVBX","0","mujer",76,"no fumador",FALSE,3.88,NA,FALSE,FALSE
+"ANQWV","1","hombre",68,"no fumador",FALSE,15.11,NA,TRUE,FALSE
+"PLTFV","0","hombre",34,"no fumador",FALSE,3.5,NA,TRUE,FALSE
+"JNCON","1","mujer",54,"no fumador",FALSE,22.47,NA,FALSE,FALSE
+"EADRV","0","mujer",54,"no fumador",FALSE,5.73,NA,FALSE,FALSE
+"YMKOZ","0","hombre",66,"no fumador",TRUE,5.88,NA,FALSE,FALSE
+"NLOEN","0","hombre",36,"no fumador",FALSE,5.29,NA,FALSE,FALSE
+"OJGWZ","1","hombre",37,"no fumador",TRUE,9.84,NA,FALSE,FALSE
+"THOSB","1","mujer",53,"fumador",FALSE,8.27,NA,TRUE,TRUE
+"GXRCR","0","mujer",53,"no fumador",TRUE,5.28,NA,FALSE,FALSE
+"FPTXQ","1","hombre",86,"fumador",FALSE,46.61,NA,FALSE,TRUE
+"UZRWY","0","hombre",52,"no fumador",TRUE,3.86,NA,FALSE,FALSE
+"YTRUI","1","hombre",69,"fumador",FALSE,41.75,NA,TRUE,TRUE
+"HRAKW","1","hombre",67,"fumador",FALSE,13.68,NA,FALSE,TRUE
+"OLWAC","1","mujer",73,"fumador",FALSE,34,NA,FALSE,TRUE
+"WVHVB","1","mujer",38,"no fumador",FALSE,12.3,NA,TRUE,FALSE
+"YMDZU","0","hombre",61,"no fumador",FALSE,3.53,NA,FALSE,FALSE
+"LQLVN","0","hombre",41,"no fumador",FALSE,3.37,NA,FALSE,FALSE
+"KKEVI","1","mujer",70,"ex fumador",FALSE,8.9,NA,FALSE,TRUE
+"EVAFA","1","hombre",53,"fumador",FALSE,17.92,NA,TRUE,TRUE
+"ERTYI","0","mujer",38,"fumador",FALSE,3.19,NA,TRUE,TRUE
+"KUBYX","0","mujer",76,"no fumador",FALSE,4.2,NA,FALSE,FALSE
+"WJCGK","0","mujer",56,"no fumador",TRUE,6.47,NA,FALSE,FALSE
+"LZQGG","0","hombre",54,"fumador",FALSE,5.47,NA,FALSE,TRUE
+"LANND","0","hombre",56,"no fumador",FALSE,3.24,NA,FALSE,FALSE
+"HXQJS","0","mujer",38,"no fumador",FALSE,9.81,NA,TRUE,FALSE
+"UACPX","1","hombre",77,"no fumador",FALSE,16.13,NA,TRUE,FALSE
+"DPSPB","1","hombre",80,"no fumador",TRUE,13.16,16,FALSE,FALSE
+"SZBUR","0","mujer",60,"no fumador",FALSE,5.91,NA,TRUE,FALSE
+"YMYWL","0","hombre",60,"fumador",TRUE,3.88,NA,FALSE,TRUE
+"PHSXK","1","mujer",92,"fumador",TRUE,32.98,31,TRUE,TRUE
+"JAPAA","0","mujer",25,"no fumador",FALSE,2.76,NA,FALSE,FALSE
+"TOCSM","0","hombre",35,"no fumador",FALSE,4.53,NA,FALSE,FALSE
+"ILMGJ","1","mujer",76,"fumador",FALSE,10.89,NA,FALSE,TRUE
+"HADJR","1","mujer",32,"fumador",FALSE,14.43,NA,FALSE,TRUE
+"CBSEQ","1","mujer",56,"fumador",TRUE,20.7,NA,FALSE,TRUE
+"KBMKZ","0","mujer",61,"no fumador",TRUE,4.04,NA,FALSE,FALSE
+"NIVSP","1","hombre",78,"no fumador",FALSE,25.72,NA,FALSE,FALSE
+"XVXNB","0","hombre",51,"no fumador",FALSE,4.26,NA,FALSE,FALSE
+"GHQWM","1","hombre",76,"no fumador",FALSE,16.35,15,TRUE,FALSE
+"FTGNH","1","hombre",73,"no fumador",FALSE,31.35,NA,FALSE,FALSE
+"BTYVT","0","mujer",78,"ex fumador",FALSE,5.43,NA,TRUE,TRUE
+"MVSEW","0","mujer",33,"no fumador",FALSE,5.04,NA,FALSE,FALSE
+"JLJIL","1","mujer",68,"ex fumador",FALSE,17.33,NA,FALSE,TRUE
+"ZLLNL","0","mujer",79,"no fumador",FALSE,4.16,NA,FALSE,FALSE
+"MVFWI","0","hombre",66,"ex fumador",FALSE,10.26,NA,FALSE,TRUE
+"BKIGX","0","hombre",65,"no fumador",FALSE,4.36,NA,FALSE,FALSE
+"EKJKE","1","hombre",69,"no fumador",TRUE,13.25,NA,TRUE,FALSE
+"BRSXT","1","hombre",100,"fumador",FALSE,22.54,NA,FALSE,TRUE
+"ABPDS","1","mujer",72,"ex fumador",TRUE,19.15,NA,TRUE,TRUE
+"BEXDK","1","mujer",56,"no fumador",FALSE,15.2,NA,FALSE,FALSE
+"ETJVT","1","hombre",55,"fumador",FALSE,20.25,NA,FALSE,TRUE
+"FAZFH","0","mujer",56,"no fumador",FALSE,3.46,NA,FALSE,FALSE
+"KCNQS","1","mujer",80,"fumador",FALSE,15.4,NA,FALSE,TRUE
+"DOHSP","0","mujer",71,"no fumador",FALSE,5.6,31,FALSE,FALSE
+"TUWDX","1","mujer",65,"no fumador",TRUE,17.03,NA,TRUE,FALSE
+"SIGSH","1","mujer",85,"fumador",FALSE,7.55,NA,FALSE,TRUE
+"SWWDJ","1","mujer",70,"no fumador",FALSE,14.48,NA,TRUE,FALSE
+"ERDLV","1","mujer",80,"no fumador",FALSE,13.73,NA,FALSE,FALSE
+"HPSNT","0","mujer",48,"no fumador",FALSE,6.19,13,FALSE,FALSE
+"HEGBQ","0","hombre",50,"no fumador",TRUE,11.97,NA,FALSE,FALSE
+"HJMKU","0","hombre",65,"no fumador",FALSE,11.64,21,TRUE,FALSE
+"CPOKF","1","mujer",39,"no fumador",FALSE,16.88,NA,FALSE,FALSE
+"FLAVW","0","hombre",67,"no fumador",TRUE,5.32,NA,TRUE,FALSE
+"HXNJI","1","mujer",56,"no fumador",FALSE,27.36,NA,FALSE,FALSE
+"YTNYN","1","mujer",64,"no fumador",TRUE,10.11,NA,FALSE,FALSE
+"LKAKA","0","hombre",61,"ex fumador",FALSE,3.61,NA,TRUE,TRUE
+"CALZG","0","mujer",47,"no fumador",FALSE,3.3,NA,FALSE,FALSE
+"EXKEP","0","mujer",56,"no fumador",FALSE,3.02,13,TRUE,FALSE
+"RPEHZ","0","mujer",56,"no fumador",FALSE,2.96,NA,FALSE,FALSE
+"KIZOL","0","mujer",61,"no fumador",TRUE,6.28,NA,FALSE,FALSE
+"OWILP","0","mujer",46,"fumador",FALSE,2.32,50,FALSE,TRUE
+"XLSKD","0","hombre",37,"no fumador",FALSE,2.53,NA,FALSE,FALSE
+"NHBAP","0","mujer",55,"fumador",FALSE,5.56,NA,FALSE,TRUE
+"BNJYO","0","hombre",54,"fumador",TRUE,4.56,NA,FALSE,TRUE
+"KGYYY","0","mujer",71,"fumador > 2 cajetillas",FALSE,4.5,NA,TRUE,TRUE
+"GBDKI","0","hombre",62,"no fumador",FALSE,3.21,NA,TRUE,FALSE
+"OQEMW","0","hombre",31,"fumador",FALSE,3.16,NA,TRUE,TRUE
+"UEMRN","1","hombre",64,"no fumador",FALSE,23.1,NA,TRUE,FALSE
+"RPPGQ","1","hombre",71,"no fumador",TRUE,7.38,NA,TRUE,FALSE
+"LAHPO","1","hombre",69,"no fumador",FALSE,5.48,NA,TRUE,FALSE
+"IWWBS","1","mujer",85,"fumador",FALSE,6.19,67,FALSE,TRUE
+"FIZTG","0","hombre",71,"fumador",TRUE,6.57,NA,TRUE,TRUE
+"NTSXZ","0","hombre",55,"no fumador",TRUE,3.65,24,FALSE,FALSE
+"VSFXO","0","mujer",45,"ex fumador",TRUE,12.76,NA,FALSE,TRUE
+"PHSVN","0","hombre",42,"fumador",FALSE,9.53,NA,FALSE,TRUE
+"QXMCS","1","hombre",49,"no fumador",FALSE,22.24,NA,TRUE,FALSE
+"BIYIG","0","hombre",35,"no fumador",FALSE,2.01,11,FALSE,FALSE
+"JTPTB","1","mujer",69,"fumador",FALSE,10.5,NA,FALSE,TRUE
+"EUKAI","1","mujer",33,"no fumador",TRUE,32.54,NA,TRUE,FALSE
+"WWRFT","0","mujer",75,"fumador",FALSE,5.14,NA,FALSE,TRUE
+"ZDIOU","0","mujer",51,"no fumador",TRUE,5.7,NA,TRUE,FALSE
+"YEZOQ","0","hombre",64,"fumador",TRUE,3.26,NA,FALSE,TRUE
+"PJJDA","0","mujer",54,"no fumador",TRUE,6.15,NA,TRUE,FALSE
+"KQVNW","1","mujer",19,"fumador",FALSE,13.03,NA,FALSE,TRUE
+"UQOKH","1","mujer",56,"fumador",FALSE,28.66,NA,FALSE,TRUE
+"GMXXN","0","hombre",70,"no fumador",FALSE,4.05,NA,TRUE,FALSE
+"IJIBP","0","mujer",73,"no fumador",FALSE,7.22,NA,FALSE,FALSE
+"UTYVN","0","mujer",39,"no fumador",FALSE,4.38,NA,FALSE,FALSE
+"EEDCS","1","hombre",70,"no fumador",FALSE,12.25,NA,FALSE,FALSE
+"YTLMT","0","hombre",43,"fumador",TRUE,2.71,NA,FALSE,TRUE
+"IRXTK","1","hombre",72,"no fumador",FALSE,12.39,NA,FALSE,FALSE
+"BDGQT","1","mujer",58,"no fumador",FALSE,7.58,NA,FALSE,FALSE
+"GSUQA","0","hombre",48,"no fumador",FALSE,3.16,NA,FALSE,FALSE
+"YAQTX","0","hombre",38,"fumador",TRUE,4.74,NA,FALSE,TRUE
+"DJKDP","1","mujer",58,"no fumador",FALSE,4.91,NA,FALSE,FALSE
+"MFLBF","0","hombre",31,"no fumador",FALSE,2.26,NA,FALSE,FALSE
+"HWQIG","1","mujer",62,"no fumador",FALSE,12.85,NA,FALSE,FALSE
+"KTPXS","0","hombre",71,"no fumador",FALSE,3.96,15,FALSE,FALSE
+"EFWID","0","hombre",41,"no fumador",FALSE,3.31,NA,FALSE,FALSE
+"VXSQY","0","mujer",71,"fumador",FALSE,5.92,NA,TRUE,TRUE
+"PKIMK","0","mujer",50,"no fumador",FALSE,2.79,NA,TRUE,FALSE
+"TGZUF","1","hombre",86,"fumador",FALSE,24.31,NA,FALSE,TRUE
+"RWDCX","1","hombre",50,"no fumador",FALSE,23.48,NA,FALSE,FALSE
+"BDLBW","1","hombre",94,"ex fumador",TRUE,24.5,NA,FALSE,TRUE
+"LBYOB","0","mujer",44,"fumador",FALSE,5.74,NA,FALSE,TRUE
+"PNRTO","1","mujer",66,"fumador",FALSE,8.04,NA,FALSE,TRUE
+"AQQZF","0","hombre",49,"no fumador",FALSE,5.48,NA,TRUE,FALSE
+"MABHV","1","mujer",64,"no fumador",FALSE,36.09,NA,TRUE,FALSE
+"VGFCR","0","hombre",65,"ex fumador",FALSE,8.27,NA,TRUE,TRUE
+"CEZAY","1","hombre",51,"no fumador",FALSE,4.74,NA,FALSE,FALSE
+"ACYDO","1","mujer",87,"no fumador",FALSE,27.4,NA,FALSE,FALSE
+"ZWAGR","1","mujer",32,"fumador > 2 cajetillas",FALSE,23,NA,FALSE,TRUE
+"ZALDI","0","mujer",47,"no fumador",FALSE,5.62,NA,TRUE,FALSE
+"WIGHL","1","mujer",59,"fumador",FALSE,8.72,NA,TRUE,TRUE
+"REVHK","1","mujer",92,"no fumador",FALSE,22.19,NA,TRUE,FALSE
+"XTQCG","0","hombre",68,"no fumador",FALSE,4.09,NA,FALSE,FALSE
+"VFXKE","1","hombre",44,"fumador > 2 cajetillas",TRUE,11.07,NA,TRUE,TRUE
+"RYWOJ","1","mujer",59,"no fumador",FALSE,13.08,NA,FALSE,FALSE
+"MFAIN","0","hombre",52,"no fumador",FALSE,7.69,NA,FALSE,FALSE
+"BSQIQ","1","hombre",41,"no fumador",TRUE,7.28,NA,FALSE,FALSE
+"ALARF","0","mujer",38,"fumador",FALSE,5.03,NA,FALSE,TRUE
+"QBZOB","1","hombre",54,"fumador",TRUE,9.09,31,FALSE,TRUE
+"KGFLN","0","mujer",38,"fumador",FALSE,5.28,NA,FALSE,TRUE
+"AQBXT","1","mujer",60,"no fumador",TRUE,30.35,NA,FALSE,FALSE
+"EOFXA","0","mujer",51,"ex fumador",FALSE,3.03,NA,FALSE,TRUE
+"QRQMU","0","hombre",80,"fumador",FALSE,4.12,4,TRUE,TRUE
+"FMEKQ","1","hombre",68,"fumador",FALSE,12.15,38,FALSE,TRUE
+"HFICR","0","hombre",25,"fumador > 2 cajetillas",TRUE,3.36,NA,FALSE,TRUE
+"NCRZG","0","mujer",76,"fumador",FALSE,4.63,NA,TRUE,TRUE
+"EPAFL","1","mujer",49,"fumador > 2 cajetillas",FALSE,31.46,NA,FALSE,TRUE
+"NCQFA","0","hombre",52,"no fumador",TRUE,3.96,NA,FALSE,FALSE
+"IAVMO","1","hombre",55,"no fumador",FALSE,9.8,27,TRUE,FALSE
+"XQULV","1","hombre",66,"no fumador",FALSE,6.06,NA,FALSE,FALSE
+"AJRPN","1","hombre",51,"no fumador",FALSE,17.45,NA,FALSE,FALSE
+"FLVHW","0","hombre",44,"no fumador",FALSE,2.54,NA,FALSE,FALSE
+"IFCBW","1","hombre",62,"no fumador",FALSE,14.27,NA,FALSE,FALSE
+"DWAAW","1","mujer",49,"fumador",FALSE,38.16,NA,FALSE,TRUE
+"HLVRQ","1","hombre",50,"fumador",TRUE,27.39,NA,FALSE,TRUE
+"HFSMK","0","hombre",40,"no fumador",FALSE,7.02,NA,FALSE,FALSE
+"HQCZJ","0","mujer",66,"no fumador",FALSE,5.94,NA,TRUE,FALSE
+"PBCGB","0","mujer",36,"no fumador",TRUE,3.54,NA,FALSE,FALSE
+"MHXOU","1","hombre",67,"fumador",FALSE,21.92,NA,TRUE,TRUE
+"FQQWG","1","mujer",82,"no fumador",FALSE,27.2,NA,FALSE,FALSE
+"RFEOC","1","mujer",46,"fumador",FALSE,21.53,NA,FALSE,TRUE
+"YJLHC","1","hombre",43,"fumador",FALSE,16.17,NA,FALSE,TRUE
+"QXJWF","1","mujer",86,"no fumador",FALSE,12.53,NA,FALSE,FALSE
+"JRYGM","0","hombre",49,"no fumador",FALSE,7.32,NA,FALSE,FALSE
+"MBYRZ","0","hombre",63,"no fumador",FALSE,4.91,NA,FALSE,FALSE
+"UIMUT","0","mujer",70,"no fumador",TRUE,4.17,NA,TRUE,FALSE
+"TJDSL","0","hombre",60,"no fumador",FALSE,4.06,NA,FALSE,FALSE
+"XUKBN","0","hombre",86,"fumador",FALSE,6.16,NA,TRUE,TRUE
+"SJPFX","1","hombre",68,"no fumador",FALSE,23.73,NA,FALSE,FALSE
+"ANNRK","0","mujer",45,"no fumador",TRUE,9.64,NA,FALSE,FALSE
+"PZFET","0","mujer",75,"no fumador",FALSE,6.7,NA,FALSE,FALSE
+"LARRV","0","mujer",80,"no fumador",TRUE,5.67,NA,TRUE,FALSE
+"DRJUL","1","mujer",72,"fumador",TRUE,55.63,NA,FALSE,TRUE
+"VTLHE","0","hombre",60,"no fumador",FALSE,4.27,NA,FALSE,FALSE
+"VTUDC","0","hombre",38,"ex fumador",FALSE,2.54,NA,FALSE,TRUE
+"ESGFQ","0","hombre",42,"no fumador",FALSE,4.25,NA,FALSE,FALSE
+"VSCAJ","1","hombre",56,"no fumador",FALSE,27.86,NA,FALSE,FALSE
+"ESTNF","0","hombre",71,"ex fumador",TRUE,6.16,12,FALSE,TRUE
+"NMCAA","0","mujer",56,"no fumador",FALSE,5.21,NA,TRUE,FALSE
+"OHPDL","0","mujer",60,"fumador",FALSE,3.6,NA,TRUE,TRUE
+"LDMTP","1","hombre",66,"no fumador",FALSE,28.23,30,TRUE,FALSE
+"NEGAT","0","mujer",49,"no fumador",FALSE,3.62,NA,FALSE,FALSE
+"CYKSF","0","hombre",50,"no fumador",FALSE,5.89,NA,TRUE,FALSE
+"GNJTB","0","mujer",48,"fumador",TRUE,7.78,NA,FALSE,TRUE
+"DFWNS","1","hombre",61,"fumador > 2 cajetillas",FALSE,14.1,NA,FALSE,TRUE
+"RRWUW","1","mujer",67,"fumador",FALSE,38.17,NA,FALSE,TRUE
+"UDMUZ","1","hombre",63,"no fumador",FALSE,11.17,NA,FALSE,FALSE
+"DEFWX","1","mujer",62,"ex fumador",FALSE,41.24,NA,FALSE,TRUE
+"DACZD","1","mujer",79,"fumador > 2 cajetillas",FALSE,20.72,NA,TRUE,TRUE
+"CMBLT","1","mujer",38,"fumador > 2 cajetillas",FALSE,44.28,NA,FALSE,TRUE
+"YDBWK","0","hombre",55,"no fumador",FALSE,2.82,NA,FALSE,FALSE
+"TFABP","0","mujer",57,"ex fumador",FALSE,4.08,NA,FALSE,TRUE
+"WDSEB","1","hombre",62,"fumador",TRUE,40.11,NA,FALSE,TRUE
+"IDDYE","0","hombre",46,"no fumador",FALSE,2.61,NA,FALSE,FALSE
+"YONLA","1","mujer",56,"no fumador",FALSE,19.57,NA,FALSE,FALSE
+"VPGRU","0","mujer",33,"no fumador",FALSE,2.33,NA,FALSE,FALSE
+"NMWQC","0","mujer",49,"no fumador",FALSE,4.36,NA,TRUE,FALSE
+"RFKBW","0","hombre",61,"no fumador",FALSE,8.59,NA,TRUE,FALSE
+"QEKKA","1","mujer",90,"fumador",FALSE,35.42,NA,TRUE,TRUE
+"ZIZZY","1","mujer",77,"no fumador",FALSE,11.89,NA,TRUE,FALSE
+"FPWQW","1","hombre",60,"fumador",FALSE,33.19,NA,FALSE,TRUE
+"HLWTU","1","mujer",83,"no fumador",FALSE,11.52,NA,TRUE,FALSE
+"YOTVZ","1","hombre",70,"fumador",FALSE,14.27,NA,TRUE,TRUE
+"SRJXQ","0","mujer",65,"no fumador",FALSE,7.05,NA,TRUE,FALSE
+"JHOYC","0","hombre",29,"no fumador",FALSE,8.07,NA,FALSE,FALSE
+"CWIAQ","0","hombre",73,"fumador",FALSE,7.07,NA,TRUE,TRUE
+"RHPFG","0","hombre",47,"no fumador",FALSE,2.64,NA,TRUE,FALSE
+"WMBKG","1","mujer",65,"fumador",TRUE,31.08,NA,FALSE,TRUE
+"EZQFS","0","hombre",52,"ex fumador",FALSE,3.18,NA,FALSE,TRUE
+"NSFKC","1","mujer",56,"no fumador",FALSE,9.04,NA,FALSE,FALSE
+"SRKDR","1","hombre",67,"fumador",FALSE,4.86,NA,FALSE,TRUE
+"NXYNJ","1","hombre",60,"no fumador",FALSE,13.7,NA,FALSE,FALSE
+"KFVJH","1","hombre",67,"ex fumador",TRUE,11.51,NA,TRUE,TRUE
+"WYMBI","0","hombre",54,"no fumador",FALSE,4.69,NA,FALSE,FALSE
+"WAERH","0","mujer",39,"no fumador",TRUE,8.02,NA,FALSE,FALSE
+"ZOHQK","0","hombre",34,"no fumador",TRUE,4.89,NA,FALSE,FALSE
+"OTBLF","0","mujer",65,"no fumador",FALSE,5.46,NA,FALSE,FALSE
+"GWHEE","0","hombre",33,"no fumador",TRUE,3.48,NA,FALSE,FALSE
+"DBILO","1","mujer",65,"ex fumador",FALSE,10.21,NA,FALSE,TRUE
+"IMTXL","1","hombre",42,"ex fumador",FALSE,19.79,NA,FALSE,TRUE
+"JNGVK","0","mujer",58,"no fumador",FALSE,13.23,33,FALSE,FALSE
+"ZCEAK","1","mujer",74,"ex fumador",FALSE,24.7,NA,FALSE,TRUE
+"RARKY","0","hombre",37,"no fumador",TRUE,5.1,NA,TRUE,FALSE
+"VNPLY","0","hombre",51,"no fumador",FALSE,4.48,NA,TRUE,FALSE
+"GAMWT","1","hombre",74,"fumador",TRUE,10.34,NA,FALSE,TRUE
+"AEMOR","0","mujer",70,"no fumador",FALSE,4.08,NA,FALSE,FALSE
+"TZHHG","0","hombre",72,"no fumador",FALSE,3.88,NA,FALSE,FALSE
+"ELVNQ","1","hombre",75,"no fumador",FALSE,35.51,NA,FALSE,FALSE
+"UBQVK","0","hombre",78,"fumador",FALSE,5.94,NA,FALSE,TRUE
+"VDZPJ","0","hombre",59,"no fumador",FALSE,3.77,NA,FALSE,FALSE
+"EXXBX","0","hombre",61,"no fumador",TRUE,8.48,NA,FALSE,FALSE
+"EYNXV","0","hombre",41,"fumador",FALSE,2.81,NA,FALSE,TRUE
+"SKALE","1","hombre",64,"no fumador",FALSE,39.45,NA,FALSE,FALSE
+"TMJOA","1","mujer",57,"ex fumador",FALSE,20.7,NA,FALSE,TRUE
+"WJOSH","0","hombre",53,"fumador",TRUE,6.61,NA,TRUE,TRUE
+"MUTMK","1","mujer",47,"ex fumador",FALSE,52.12,NA,TRUE,TRUE
+"NWGVT","0","mujer",34,"no fumador",FALSE,2.89,NA,FALSE,FALSE
+"LBZQP","0","mujer",49,"fumador",TRUE,5.38,NA,TRUE,TRUE
+"HKHSL","0","mujer",49,"fumador",FALSE,2.93,NA,FALSE,TRUE
+"OXNXE","1","hombre",77,"fumador",FALSE,20.03,NA,FALSE,TRUE
+"JPKIG","1","mujer",68,"no fumador",FALSE,53.2,NA,FALSE,FALSE
+"AZWOC","0","hombre",64,"no fumador",TRUE,8.16,NA,FALSE,FALSE
+"WIMRY","1","mujer",53,"fumador",FALSE,20.48,NA,FALSE,TRUE
+"CEMFW","0","hombre",47,"no fumador",TRUE,4.24,NA,FALSE,FALSE
+"PFPHE","1","mujer",87,"no fumador",FALSE,8.95,NA,FALSE,FALSE
+"HHYID","0","mujer",67,"fumador",TRUE,5.86,18,FALSE,TRUE
+"QMYRO","0","hombre",52,"fumador > 2 cajetillas",FALSE,2.85,NA,FALSE,TRUE
+"FOEYE","1","mujer",90,"fumador",FALSE,9.43,10,TRUE,TRUE
+"WNWKF","0","hombre",52,"no fumador",TRUE,3.02,NA,FALSE,FALSE
+"CHMAI","0","mujer",53,"no fumador",FALSE,9.15,NA,FALSE,FALSE
+"UHWJL","0","mujer",46,"no fumador",FALSE,3.39,NA,FALSE,FALSE
+"AOFZU","0","mujer",34,"no fumador",FALSE,12.6,NA,TRUE,FALSE
+"UIRYT","1","mujer",39,"no fumador",FALSE,28.62,NA,FALSE,FALSE
+"GXFCO","1","mujer",61,"fumador",TRUE,17.35,NA,FALSE,TRUE
+"XNANG","0","mujer",54,"no fumador",TRUE,3.68,NA,FALSE,FALSE
+"ALEDX","0","mujer",51,"no fumador",TRUE,4.54,NA,FALSE,FALSE
+"QPFXO","1","mujer",54,"no fumador",FALSE,38.2,NA,FALSE,FALSE
+"MXOXC","1","hombre",81,"no fumador",TRUE,20.64,NA,FALSE,FALSE
+"FMQNV","0","hombre",43,"no fumador",FALSE,4.04,NA,FALSE,FALSE
+"YXSRD","1","mujer",65,"fumador",FALSE,31.69,NA,FALSE,TRUE
+"PRXOR","0","hombre",59,"no fumador",FALSE,3.59,9,TRUE,FALSE
+"JIJBJ","1","mujer",43,"ex fumador",FALSE,16.77,NA,FALSE,TRUE
+"POJRB","0","hombre",61,"no fumador",FALSE,4.5,14,FALSE,FALSE
+"MALTC","0","hombre",61,"no fumador",FALSE,6.93,NA,FALSE,FALSE
+"XZFSM","0","mujer",36,"fumador",FALSE,6.98,NA,FALSE,TRUE
+"DPCTH","0","hombre",53,"no fumador",FALSE,4.88,NA,FALSE,FALSE
+"UYUMM","1","hombre",58,"fumador > 2 cajetillas",FALSE,12.53,NA,FALSE,TRUE
+"OWJON","0","hombre",51,"no fumador",FALSE,3.43,NA,FALSE,FALSE
+"TOBXH","0","hombre",47,"no fumador",TRUE,3.65,NA,FALSE,FALSE
+"GPAAQ","0","mujer",35,"fumador > 2 cajetillas",FALSE,5.63,NA,FALSE,TRUE
+"FWPLB","0","hombre",58,"no fumador",FALSE,3.36,NA,FALSE,FALSE
+"CJZET","0","mujer",56,"no fumador",FALSE,4.19,NA,TRUE,FALSE
+"KRNIS","0","mujer",58,"ex fumador",FALSE,7.49,NA,FALSE,TRUE
+"FDIVR","1","hombre",52,"fumador",FALSE,12.64,NA,FALSE,TRUE
+"KXLSC","0","mujer",41,"no fumador",TRUE,2.22,NA,TRUE,FALSE
+"VUPOG","0","mujer",59,"no fumador",FALSE,3.85,NA,FALSE,FALSE
+"JOVWK","1","mujer",74,"fumador",FALSE,25.14,NA,FALSE,TRUE
+"EOSQP","0","hombre",52,"ex fumador",FALSE,2.79,NA,FALSE,TRUE
+"QOYUO","0","mujer",74,"no fumador",FALSE,4.27,26,FALSE,FALSE
+"YKGPQ","0","hombre",54,"no fumador",FALSE,4.96,NA,FALSE,FALSE
+"LSIXL","1","hombre",51,"ex fumador",FALSE,21.09,NA,FALSE,TRUE
+"RSFGC","0","hombre",47,"fumador",FALSE,4.43,NA,TRUE,TRUE
+"CYZBB","1","hombre",67,"fumador",FALSE,29.7,NA,FALSE,TRUE
+"UTIMF","1","hombre",73,"no fumador",TRUE,15.14,NA,FALSE,FALSE
+"AQGJS","0","hombre",64,"no fumador",FALSE,4.21,NA,FALSE,FALSE
+"WRIIH","0","hombre",83,"no fumador",FALSE,5.57,NA,FALSE,FALSE
+"QGRJS","0","hombre",39,"no fumador",FALSE,5.41,NA,FALSE,FALSE
+"IWSHM","0","hombre",73,"ex fumador",FALSE,5.24,NA,FALSE,TRUE
+"VBJZO","0","mujer",52,"fumador",FALSE,3.81,NA,FALSE,TRUE
+"VCLDZ","0","hombre",57,"no fumador",FALSE,9.26,NA,TRUE,FALSE
+"LTWAG","1","mujer",65,"no fumador",FALSE,6.64,NA,TRUE,FALSE
+"STJRB","0","hombre",60,"fumador > 2 cajetillas",FALSE,7.02,NA,FALSE,TRUE
+"PMAUK","1","hombre",76,"fumador",FALSE,14.87,NA,FALSE,TRUE
+"FECHV","1","hombre",63,"no fumador",FALSE,20.86,NA,FALSE,FALSE
+"QPZYH","1","mujer",80,"fumador",FALSE,10.23,NA,FALSE,TRUE
+"RUGAU","0","mujer",39,"no fumador",FALSE,4.18,NA,FALSE,FALSE
+"ZELXM","1","hombre",70,"no fumador",FALSE,15.13,NA,TRUE,FALSE
+"XYIGC","0","mujer",53,"no fumador",FALSE,5.13,NA,TRUE,FALSE
+"LYHCN","0","mujer",72,"fumador",FALSE,4.13,NA,TRUE,TRUE
+"OXDEX","0","hombre",70,"no fumador",FALSE,3.73,NA,FALSE,FALSE
+"LAHAQ","0","hombre",43,"fumador",TRUE,6.53,15,FALSE,TRUE
+"GUOIL","1","mujer",88,"fumador",FALSE,20.61,NA,FALSE,TRUE
+"GLFBF","1","hombre",72,"ex fumador",FALSE,23.7,20,TRUE,TRUE
+"YAYFW","0","hombre",61,"no fumador",FALSE,13.1,NA,FALSE,FALSE
+"VDSEP","0","mujer",46,"fumador",FALSE,3.1,NA,FALSE,TRUE
+"AQLMO","1","mujer",38,"no fumador",TRUE,9.75,49,FALSE,FALSE
+"YBYBF","0","hombre",34,"ex fumador",FALSE,2.74,22,FALSE,TRUE
+"KDRRM","0","hombre",61,"no fumador",FALSE,5.81,NA,FALSE,FALSE
+"IPHFU","1","mujer",68,"fumador",FALSE,15.14,NA,FALSE,TRUE
+"IHEOO","0","hombre",66,"fumador > 2 cajetillas",TRUE,3.51,NA,FALSE,TRUE
+"AMAIQ","0","hombre",59,"fumador > 2 cajetillas",FALSE,6.51,NA,TRUE,TRUE
+"FPSIG","0","hombre",54,"no fumador",FALSE,2.72,NA,TRUE,FALSE
+"LMLYJ","0","mujer",85,"ex fumador",FALSE,6.94,NA,TRUE,TRUE
+"INVEJ","1","hombre",72,"ex fumador",TRUE,44.58,NA,FALSE,TRUE
+"TZCJG","0","hombre",67,"no fumador",TRUE,3.53,NA,FALSE,FALSE
+"IHEIA","1","hombre",92,"no fumador",FALSE,7.63,NA,FALSE,FALSE
+"COUGM","1","mujer",51,"no fumador",FALSE,26.23,NA,TRUE,FALSE
+"QNDJH","1","mujer",75,"no fumador",FALSE,21.34,NA,FALSE,FALSE
+"UBFZR","0","mujer",53,"no fumador",TRUE,2.84,NA,TRUE,FALSE
+"BNGUI","0","hombre",87,"no fumador",FALSE,6.53,NA,TRUE,FALSE
+"XWJNK","0","hombre",47,"fumador",FALSE,6.82,NA,TRUE,TRUE
+"AYQSB","0","mujer",47,"no fumador",TRUE,5.03,NA,FALSE,FALSE
+"JOYPZ","0","mujer",66,"fumador",FALSE,4.17,NA,FALSE,TRUE
+"KPQUR","0","mujer",57,"no fumador",FALSE,5.87,NA,FALSE,FALSE
+"MFJRV","1","hombre",34,"no fumador",FALSE,6.59,NA,TRUE,FALSE
+"SXYNT","1","hombre",55,"no fumador",FALSE,9.53,NA,TRUE,FALSE
+"XPVEN","0","hombre",48,"no fumador",FALSE,7.06,NA,FALSE,FALSE
+"NKXWC","0","mujer",36,"ex fumador",TRUE,8.64,NA,TRUE,TRUE
+"YKRKL","0","mujer",83,"no fumador",FALSE,9.83,NA,FALSE,FALSE
+"FCPMM","0","hombre",71,"fumador",FALSE,6.34,NA,FALSE,TRUE
+"FLOJD","0","mujer",54,"no fumador",TRUE,3.63,NA,FALSE,FALSE
+"PFUHG","1","mujer",62,"fumador",FALSE,23.21,NA,FALSE,TRUE
+"GTACO","1","hombre",41,"fumador",FALSE,9.99,NA,TRUE,TRUE
+"CGTHV","1","mujer",88,"no fumador",FALSE,12.28,20,FALSE,FALSE
+"IGALC","1","mujer",85,"fumador",FALSE,31.06,NA,FALSE,TRUE
+"LAFWK","0","mujer",55,"no fumador",FALSE,6.87,NA,TRUE,FALSE
+"EQTPB","1","mujer",54,"ex fumador",FALSE,24.57,16,FALSE,TRUE
+"ZDNIB","1","hombre",54,"no fumador",FALSE,17.21,NA,TRUE,FALSE
+"QBXMB","1","hombre",69,"no fumador",FALSE,17.21,NA,FALSE,FALSE
+"MCHKE","1","hombre",63,"no fumador",FALSE,12.46,NA,FALSE,FALSE
+"SQNRV","0","hombre",58,"ex fumador",FALSE,3.26,NA,FALSE,TRUE
+"GQLMP","0","mujer",49,"no fumador",FALSE,3.33,NA,FALSE,FALSE
+"QCWMO","0","hombre",74,"no fumador",FALSE,4.86,NA,FALSE,FALSE
+"EIIRL","1","hombre",66,"no fumador",FALSE,7.48,NA,FALSE,FALSE
+"NZLWF","0","mujer",58,"no fumador",FALSE,5.05,NA,FALSE,FALSE
+"AHSFX","1","mujer",42,"fumador",FALSE,18.18,NA,FALSE,TRUE
+"XROEX","0","hombre",40,"no fumador",FALSE,7.31,NA,FALSE,FALSE
+"DCOTD","0","mujer",44,"fumador",FALSE,6.1,NA,TRUE,TRUE
+"ATEPX","0","mujer",40,"ex fumador",FALSE,2.02,NA,FALSE,TRUE
+"MGZEM","0","hombre",49,"fumador",FALSE,5.24,NA,FALSE,TRUE
+"NJGAW","1","mujer",53,"no fumador",FALSE,21.26,NA,FALSE,FALSE
+"QCIBA","1","mujer",69,"ex fumador",TRUE,7.79,NA,FALSE,TRUE
+"IWXQK","0","hombre",77,"fumador",FALSE,6.18,NA,TRUE,TRUE
+"YDGBO","0","mujer",64,"fumador > 2 cajetillas",TRUE,4.38,NA,FALSE,TRUE
+"QIQMB","0","mujer",59,"no fumador",FALSE,2.97,NA,TRUE,FALSE
+"AQEYZ","1","hombre",74,"no fumador",FALSE,14.49,NA,FALSE,FALSE
+"NEQDJ","1","hombre",76,"no fumador",FALSE,10.75,NA,FALSE,FALSE
+"OXXZZ","1","hombre",34,"fumador",FALSE,22.41,NA,TRUE,TRUE
+"XNXWX","1","hombre",66,"no fumador",FALSE,32.19,NA,FALSE,FALSE
+"BNLKT","0","mujer",57,"no fumador",FALSE,3.46,NA,FALSE,FALSE
+"FWCUK","0","hombre",86,"ex fumador",TRUE,8.53,NA,FALSE,TRUE
+"HQOPF","0","hombre",55,"no fumador",TRUE,3.94,41,FALSE,FALSE
+"YGFUT","0","hombre",82,"no fumador",FALSE,6.26,NA,TRUE,FALSE
+"XIUXH","0","hombre",63,"no fumador",TRUE,5.12,NA,TRUE,FALSE
+"QMRQX","0","hombre",55,"no fumador",FALSE,3.98,NA,FALSE,FALSE
+"VLBUC","0","hombre",66,"no fumador",TRUE,7.05,NA,TRUE,FALSE
+"WXCKR","0","mujer",92,"no fumador",FALSE,4.77,NA,FALSE,FALSE
+"LOEID","0","mujer",47,"no fumador",FALSE,6.67,NA,FALSE,FALSE
+"HTYDS","0","mujer",39,"fumador",FALSE,2.92,NA,TRUE,TRUE
+"XBKSZ","0","mujer",41,"no fumador",FALSE,3.8,NA,FALSE,FALSE
+"QKHBZ","0","mujer",33,"fumador",TRUE,2.8,16,FALSE,TRUE
+"AWDYC","0","mujer",38,"no fumador",FALSE,2.69,NA,FALSE,FALSE
+"ADEWG","1","mujer",84,"ex fumador",FALSE,9.53,NA,FALSE,TRUE
+"ENINB","0","mujer",42,"no fumador",FALSE,2.5,NA,TRUE,FALSE
+"VXMKM","0","hombre",35,"fumador > 2 cajetillas",FALSE,4.85,NA,TRUE,TRUE
+"UXYCD","1","mujer",50,"no fumador",FALSE,21.86,NA,TRUE,FALSE
+"KAWBX","0","mujer",48,"no fumador",TRUE,3.81,NA,TRUE,FALSE
+"SHXNA","0","hombre",41,"no fumador",FALSE,3.08,NA,FALSE,FALSE
+"CJIUZ","1","hombre",56,"ex fumador",FALSE,20.76,NA,FALSE,TRUE
+"DMHQJ","1","hombre",65,"fumador",FALSE,14.26,NA,FALSE,TRUE
+"YGACX","1","hombre",58,"no fumador",FALSE,9.96,37,FALSE,FALSE
+"RBSXR","1","hombre",57,"no fumador",TRUE,8.3,NA,TRUE,FALSE
+"YQMDL","0","mujer",60,"fumador",FALSE,4.22,NA,FALSE,TRUE
+"WXWOM","1","hombre",90,"no fumador",FALSE,31.08,NA,TRUE,FALSE
+"QINMB","0","hombre",22,"fumador > 2 cajetillas",FALSE,6.84,NA,FALSE,TRUE
+"WJKXX","0","hombre",32,"no fumador",TRUE,2.49,31,FALSE,FALSE
+"HIGHF","0","hombre",76,"no fumador",TRUE,5.12,NA,FALSE,FALSE
+"SZHJJ","1","hombre",57,"no fumador",TRUE,39.79,NA,FALSE,FALSE
+"MATBS","0","mujer",51,"no fumador",FALSE,5.9,NA,FALSE,FALSE
+"THDFA","1","hombre",43,"no fumador",FALSE,71.73,NA,FALSE,FALSE
+"ZOVDE","0","hombre",63,"no fumador",TRUE,3.27,NA,FALSE,FALSE
+"EDPCC","0","hombre",35,"no fumador",FALSE,5.29,NA,TRUE,FALSE
+"NIOLS","0","mujer",52,"no fumador",FALSE,6.09,NA,FALSE,FALSE
+"UWLGV","0","hombre",70,"no fumador",FALSE,4.97,NA,FALSE,FALSE
+"IJQTF","0","mujer",56,"no fumador",FALSE,3.89,NA,FALSE,FALSE
+"BQREN","0","hombre",41,"no fumador",TRUE,2.89,NA,FALSE,FALSE
+"LSTWF","0","hombre",57,"no fumador",FALSE,8.41,NA,FALSE,FALSE
+"DEDSC","0","mujer",60,"fumador",TRUE,5.34,NA,FALSE,TRUE
+"WSPYM","0","hombre",30,"no fumador",FALSE,1.68,NA,FALSE,FALSE
+"TBMRI","1","hombre",67,"fumador",TRUE,9.71,NA,TRUE,TRUE
+"NOZYN","0","hombre",48,"fumador",FALSE,3.84,NA,TRUE,TRUE
+"XABTR","0","mujer",41,"no fumador",FALSE,2.61,NA,FALSE,FALSE
+"WAQEQ","1","mujer",62,"fumador",TRUE,8.35,NA,TRUE,TRUE
+"UCVDL","0","hombre",42,"ex fumador",FALSE,10.61,NA,FALSE,TRUE
+"DRFVP","0","hombre",37,"ex fumador",TRUE,2.08,NA,TRUE,TRUE
+"JKUPQ","1","hombre",76,"no fumador",FALSE,18.86,NA,FALSE,FALSE
+"XSSCI","0","hombre",49,"fumador > 2 cajetillas",FALSE,3.33,NA,TRUE,TRUE
+"IRWLD","1","hombre",48,"fumador",TRUE,15.83,NA,TRUE,TRUE
+"AUZTC","0","mujer",78,"no fumador",FALSE,6.31,NA,FALSE,FALSE
+"WHMLK","0","mujer",38,"no fumador",FALSE,3.42,NA,FALSE,FALSE
+"TALCT","1","hombre",79,"fumador",FALSE,27.93,NA,TRUE,TRUE
+"HSWBR","0","hombre",47,"no fumador",TRUE,3.14,NA,FALSE,FALSE
+"JYLCC","0","hombre",50,"no fumador",TRUE,6.04,NA,TRUE,FALSE
+"WMEFH","0","hombre",57,"fumador",TRUE,3.17,NA,TRUE,TRUE
+"JIIXO","1","mujer",51,"no fumador",FALSE,51.46,NA,TRUE,FALSE
+"PUYOD","1","hombre",58,"ex fumador",TRUE,22.79,NA,FALSE,TRUE
+"PXAJP","0","hombre",60,"no fumador",FALSE,6.28,20,FALSE,FALSE
+"HZJUF","0","hombre",62,"ex fumador",FALSE,3.99,11,TRUE,TRUE
+"RTQOW","0","hombre",45,"no fumador",TRUE,2.99,NA,FALSE,FALSE
+"XIZJV","0","mujer",48,"fumador",FALSE,6.56,NA,FALSE,TRUE
+"IXKFW","0","mujer",55,"no fumador",TRUE,3.02,NA,FALSE,FALSE
+"CTSWU","1","mujer",71,"no fumador",FALSE,35.09,NA,FALSE,FALSE
+"AQGWP","1","hombre",57,"no fumador",TRUE,13.94,NA,FALSE,FALSE
+"OHLNW","1","mujer",51,"no fumador",FALSE,17.06,NA,TRUE,FALSE
+"KDBUA","0","hombre",33,"no fumador",FALSE,3.2,NA,FALSE,FALSE
+"PDTUE","1","hombre",28,"no fumador",FALSE,7.26,33,FALSE,FALSE
+"YKYOF","0","hombre",60,"fumador",TRUE,7.03,NA,TRUE,TRUE
+"LOQFD","1","hombre",96,"fumador",TRUE,19.12,NA,TRUE,TRUE
+"JSQWI","0","mujer",58,"ex fumador",FALSE,3.11,NA,TRUE,TRUE
+"MAAQG","1","mujer",60,"fumador",FALSE,16.05,NA,TRUE,TRUE
+"QWOBZ","0","mujer",62,"no fumador",FALSE,5.62,NA,TRUE,FALSE
+"RSEOJ","1","mujer",53,"no fumador",FALSE,14.46,NA,FALSE,FALSE
+"CSKKW","1","mujer",63,"no fumador",FALSE,14.66,NA,TRUE,FALSE
+"SLHKU","0","mujer",60,"ex fumador",FALSE,6.22,NA,FALSE,TRUE
+"ZNWMF","1","hombre",73,"fumador",FALSE,47.15,NA,FALSE,TRUE
+"PXWKK","0","mujer",32,"no fumador",TRUE,3.28,NA,FALSE,FALSE
+"YIXZU","0","hombre",79,"fumador > 2 cajetillas",FALSE,7.62,NA,FALSE,TRUE
+"ECZTA","0","mujer",30,"no fumador",FALSE,4.08,NA,FALSE,FALSE
+"OICEU","1","mujer",54,"fumador",FALSE,16.86,NA,TRUE,TRUE
+"AEFLX","1","mujer",74,"fumador",FALSE,11.3,NA,TRUE,TRUE
+"MYKFU","0","hombre",75,"fumador",FALSE,5.28,NA,FALSE,TRUE
+"TNQKO","1","hombre",39,"no fumador",FALSE,15.21,NA,TRUE,FALSE
+"SFPOD","0","mujer",42,"no fumador",FALSE,3.58,NA,TRUE,FALSE
+"VWXJC","0","hombre",47,"no fumador",FALSE,2.56,NA,FALSE,FALSE
+"XEPHG","0","hombre",58,"no fumador",TRUE,5.34,NA,FALSE,FALSE
+"ZSHTX","0","mujer",33,"no fumador",TRUE,2.5,NA,FALSE,FALSE
+"XEZRC","1","hombre",60,"no fumador",FALSE,45.96,NA,FALSE,FALSE
+"YETMF","1","hombre",58,"no fumador",FALSE,19.6,NA,FALSE,FALSE
+"SOSUN","0","mujer",69,"no fumador",TRUE,8.12,NA,FALSE,FALSE
+"CXYEW","1","mujer",65,"fumador",FALSE,17.63,NA,FALSE,TRUE
+"VXYPP","0","hombre",38,"fumador > 2 cajetillas",FALSE,4.08,NA,FALSE,TRUE
+"RJERV","0","hombre",70,"fumador",TRUE,5.42,NA,FALSE,TRUE
+"ARREY","0","mujer",41,"ex fumador",TRUE,2.23,34,FALSE,TRUE
+"TLUSV","0","mujer",36,"no fumador",FALSE,4.72,NA,FALSE,FALSE
+"XMLEY","1","hombre",82,"no fumador",FALSE,25.45,NA,FALSE,FALSE
+"ZIHPN","0","hombre",48,"fumador",FALSE,3.93,NA,TRUE,TRUE
+"CYVWD","0","hombre",33,"no fumador",FALSE,3.11,27,FALSE,FALSE
+"VBVDU","1","hombre",61,"no fumador",FALSE,21.52,2,FALSE,FALSE
+"QDOFE","1","mujer",70,"fumador",FALSE,26.82,NA,FALSE,TRUE
+"EUTAK","0","mujer",65,"no fumador",FALSE,9.87,NA,FALSE,FALSE
+"EQODH","0","hombre",44,"fumador",FALSE,3.34,NA,FALSE,TRUE
+"RCDTM","0","hombre",70,"ex fumador",TRUE,10.39,NA,FALSE,TRUE
+"ZWUNL","1","hombre",61,"no fumador",TRUE,36.36,NA,FALSE,FALSE
+"EIXQV","1","mujer",68,"no fumador",FALSE,5.46,NA,FALSE,FALSE
+"JGLCP","1","hombre",45,"fumador",FALSE,78.72,NA,FALSE,TRUE
+"ENCYS","0","hombre",35,"fumador",FALSE,2.39,NA,FALSE,TRUE
+"TNMDV","0","hombre",56,"no fumador",FALSE,9,32,TRUE,FALSE
+"UUGKF","1","hombre",52,"no fumador",FALSE,32.88,NA,FALSE,FALSE
+"UVOZE","0","hombre",60,"fumador > 2 cajetillas",FALSE,5.8,NA,FALSE,TRUE
+"BSATB","1","hombre",57,"no fumador",FALSE,28.56,NA,FALSE,FALSE
+"KXJVT","1","mujer",94,"no fumador",FALSE,11.21,NA,TRUE,FALSE
+"GAMYA","1","hombre",45,"fumador",FALSE,32.02,NA,TRUE,TRUE
+"MDWNM","0","mujer",51,"ex fumador",FALSE,4.48,NA,TRUE,TRUE
+"UCGDF","1","mujer",50,"no fumador",FALSE,10.42,NA,TRUE,FALSE
+"ZHPBX","1","hombre",53,"fumador",TRUE,19.62,NA,FALSE,TRUE
+"NJBRE","0","hombre",68,"no fumador",FALSE,8.81,NA,FALSE,FALSE
+"WRKPA","0","hombre",49,"no fumador",FALSE,2.97,NA,FALSE,FALSE
+"CNLMT","0","mujer",54,"no fumador",FALSE,2.73,NA,FALSE,FALSE
+"DHNGQ","1","mujer",60,"fumador",FALSE,21.14,NA,FALSE,TRUE
+"DHSNR","0","hombre",60,"fumador",FALSE,3.48,NA,TRUE,TRUE
+"VUFON","1","hombre",86,"no fumador",FALSE,25.08,9,TRUE,FALSE
+"XOZWR","1","mujer",79,"fumador",TRUE,49.27,NA,FALSE,TRUE
+"TJUUR","1","hombre",64,"fumador > 2 cajetillas",FALSE,5.32,NA,FALSE,TRUE
+"BOHNI","1","hombre",80,"no fumador",FALSE,17.09,NA,TRUE,FALSE
+"WOGUR","0","hombre",64,"no fumador",FALSE,4.06,NA,FALSE,FALSE
+"HLUAV","1","mujer",92,"no fumador",FALSE,19.37,NA,FALSE,FALSE
+"JVWWK","0","hombre",47,"no fumador",FALSE,6.41,2,FALSE,FALSE
+"NVBMM","1","mujer",54,"fumador",FALSE,8.05,NA,FALSE,TRUE
+"SRRWK","0","mujer",57,"fumador > 2 cajetillas",FALSE,7.92,NA,TRUE,TRUE
+"LVYAP","1","mujer",56,"no fumador",FALSE,14.76,55,FALSE,FALSE
+"UADMF","1","hombre",66,"no fumador",FALSE,10.39,NA,FALSE,FALSE
+"PLSYH","0","hombre",60,"ex fumador",FALSE,6.91,NA,FALSE,TRUE
+"MGISS","1","mujer",69,"fumador",FALSE,15.58,NA,TRUE,TRUE
+"PRLSU","0","hombre",46,"no fumador",FALSE,2.91,46,TRUE,FALSE
+"PVWPV","0","hombre",52,"fumador > 2 cajetillas",FALSE,3.47,60,FALSE,TRUE
+"VJIFU","0","hombre",62,"no fumador",FALSE,3.79,NA,FALSE,FALSE
+"OPSXH","1","hombre",89,"no fumador",TRUE,66.18,NA,TRUE,FALSE
+"SCPPR","0","mujer",58,"no fumador",FALSE,3.75,5,FALSE,FALSE
+"VTBLY","1","hombre",71,"fumador",FALSE,43.92,NA,FALSE,TRUE
+"ZTLXZ","1","hombre",47,"fumador",FALSE,33.93,NA,FALSE,TRUE
+"MJQHB","0","mujer",62,"no fumador",FALSE,3.81,NA,FALSE,FALSE
+"YIZSW","0","hombre",51,"fumador > 2 cajetillas",TRUE,3.32,NA,FALSE,TRUE
+"YVPHY","0","mujer",61,"no fumador",FALSE,3.32,NA,TRUE,FALSE
+"FKKQN","1","hombre",61,"fumador > 2 cajetillas",FALSE,12.29,NA,FALSE,TRUE
+"OKMOD","0","mujer",43,"no fumador",FALSE,4.55,NA,FALSE,FALSE
+"ETSHC","1","hombre",40,"no fumador",TRUE,35.45,NA,FALSE,FALSE
+"OMJAO","1","hombre",58,"fumador > 2 cajetillas",FALSE,7.12,NA,FALSE,TRUE
+"CESHA","1","hombre",51,"no fumador",FALSE,9.44,NA,FALSE,FALSE
+"ONJCE","1","mujer",73,"no fumador",TRUE,41.61,61,FALSE,FALSE
+"RUGDQ","1","hombre",77,"no fumador",FALSE,9.97,4,FALSE,FALSE
+"LBWEK","1","hombre",80,"fumador > 2 cajetillas",FALSE,5.29,NA,TRUE,TRUE
+"PPXMS","0","mujer",72,"no fumador",FALSE,4.83,40,TRUE,FALSE
+"LRIGB","0","mujer",58,"no fumador",FALSE,3.57,NA,FALSE,FALSE
+"HXSVV","0","mujer",68,"fumador",FALSE,3.82,NA,FALSE,TRUE
+"WBCER","0","mujer",67,"no fumador",TRUE,13.78,NA,TRUE,FALSE
+"XNQUV","0","mujer",77,"no fumador",FALSE,4.57,NA,FALSE,FALSE
+"LZKYP","1","hombre",48,"fumador",FALSE,10.39,NA,FALSE,TRUE
+"KAKOL","1","mujer",86,"no fumador",FALSE,29.79,NA,TRUE,FALSE
+"ERQVH","1","mujer",62,"no fumador",TRUE,11.69,NA,TRUE,FALSE
+"LLAYW","1","hombre",59,"no fumador",FALSE,7.25,NA,FALSE,FALSE
+"MTGVT","0","hombre",52,"no fumador",FALSE,4.16,27,TRUE,FALSE
+"QQRRO","1","hombre",66,"no fumador",FALSE,27.1,NA,TRUE,FALSE
+"FRKIU","1","mujer",69,"no fumador",FALSE,20.33,NA,FALSE,FALSE
+"SYMHL","1","mujer",57,"fumador",FALSE,11.57,NA,FALSE,TRUE
+"GFFGZ","1","hombre",51,"no fumador",TRUE,29.16,4,FALSE,FALSE
+"TJQKR","1","mujer",57,"no fumador",FALSE,8.88,NA,FALSE,FALSE
+"YGEOB","1","mujer",40,"no fumador",FALSE,30.57,NA,FALSE,FALSE
+"WRKCE","1","hombre",74,"ex fumador",FALSE,12.18,NA,FALSE,TRUE
+"CQYTG","0","mujer",41,"no fumador",FALSE,5.2,NA,FALSE,FALSE
+"IEHIV","1","mujer",71,"no fumador",FALSE,11.92,59,FALSE,FALSE
+"JEIGO","0","hombre",51,"no fumador",TRUE,2.73,NA,TRUE,FALSE
+"FSMEX","0","mujer",50,"no fumador",FALSE,3.16,NA,FALSE,FALSE
+"TBMEQ","0","mujer",54,"fumador",FALSE,3.36,NA,FALSE,TRUE
+"IPHLG","0","mujer",59,"no fumador",FALSE,5.57,NA,FALSE,FALSE
+"YIFJR","0","mujer",44,"no fumador",TRUE,4.69,NA,FALSE,FALSE
+"OJXXX","0","hombre",68,"no fumador",TRUE,3.72,NA,FALSE,FALSE
+"XGGWH","1","mujer",61,"no fumador",FALSE,9.65,NA,FALSE,FALSE
+"FXICW","0","mujer",35,"no fumador",FALSE,5.03,NA,TRUE,FALSE
+"SEYXZ","1","hombre",50,"fumador",FALSE,12.75,NA,TRUE,TRUE
+"YETVR","1","mujer",49,"no fumador",FALSE,21.67,25,TRUE,FALSE
+"MRSYT","0","hombre",62,"ex fumador",FALSE,4.72,NA,FALSE,TRUE
+"BCNNB","1","hombre",91,"fumador",FALSE,7.53,NA,FALSE,TRUE
+"WIMXV","1","mujer",57,"fumador",TRUE,8.99,NA,FALSE,TRUE
+"EGRQB","0","mujer",70,"no fumador",TRUE,7.85,NA,FALSE,FALSE
+"OXQOM","1","mujer",37,"fumador",FALSE,48.24,NA,TRUE,TRUE
+"QTCHL","1","hombre",60,"no fumador",FALSE,22.96,NA,FALSE,FALSE
+"MLKJP","0","mujer",61,"no fumador",FALSE,4.27,NA,FALSE,FALSE
+"CEOFQ","1","hombre",69,"no fumador",FALSE,25.04,NA,FALSE,FALSE
+"TQRFS","1","hombre",53,"no fumador",TRUE,9.58,NA,TRUE,FALSE
+"ZZZMZ","1","hombre",67,"no fumador",FALSE,20.68,NA,TRUE,FALSE
+"LVHSW","1","hombre",70,"no fumador",FALSE,16.25,NA,FALSE,FALSE
+"VXHFM","0","mujer",72,"no fumador",FALSE,4.06,NA,FALSE,FALSE
+"TBPUW","1","mujer",57,"no fumador",FALSE,50.27,NA,TRUE,FALSE
+"RXOLW","0","mujer",57,"no fumador",FALSE,5.98,NA,FALSE,FALSE
+"KWVQF","0","mujer",40,"no fumador",FALSE,4.74,NA,TRUE,FALSE
+"RADTM","0","hombre",63,"fumador",FALSE,8.75,NA,TRUE,TRUE
+"FSYNX","0","hombre",72,"ex fumador",FALSE,5.33,NA,FALSE,TRUE
+"MKLPP","0","hombre",49,"fumador",TRUE,5.1,NA,FALSE,TRUE
+"UNCOQ","0","mujer",67,"fumador",FALSE,4.63,NA,TRUE,TRUE
+"BVZPI","0","mujer",27,"no fumador",FALSE,2.63,NA,TRUE,FALSE
+"ZJCYU","0","hombre",44,"fumador",FALSE,8.04,NA,FALSE,TRUE
+"ZNBEY","1","hombre",60,"ex fumador",FALSE,5.96,NA,FALSE,TRUE
+"DOBQK","0","hombre",52,"ex fumador",FALSE,5.59,NA,TRUE,TRUE
+"QZYFJ","1","hombre",71,"fumador",FALSE,9.26,NA,FALSE,TRUE
+"NBWYG","0","mujer",62,"fumador",FALSE,3.23,NA,FALSE,TRUE
+"WGQST","0","mujer",40,"no fumador",FALSE,5.09,NA,FALSE,FALSE
+"IROBG","0","mujer",49,"ex fumador",FALSE,2.46,NA,FALSE,TRUE
+"BPIJW","0","hombre",61,"fumador",FALSE,9.11,NA,FALSE,TRUE
+"KNWDP","0","mujer",32,"no fumador",FALSE,1.77,NA,TRUE,FALSE
+"HXOLS","1","hombre",52,"no fumador",FALSE,14.08,9,FALSE,FALSE
+"ACHNS","0","hombre",66,"no fumador",FALSE,4.26,NA,TRUE,FALSE
+"GRSRC","0","hombre",36,"fumador",FALSE,2.82,NA,TRUE,TRUE
+"MXOKJ","1","hombre",62,"fumador",FALSE,25.59,NA,FALSE,TRUE
+"KNNOJ","0","mujer",49,"fumador",FALSE,5.48,NA,TRUE,TRUE
+"EWRYI","1","mujer",49,"fumador",FALSE,21.7,NA,FALSE,TRUE
+"AJMBP","1","hombre",67,"no fumador",FALSE,5.36,NA,FALSE,FALSE
+"PFZXO","1","hombre",60,"fumador",FALSE,21.44,NA,TRUE,TRUE
+"VCDYK","0","hombre",49,"no fumador",FALSE,6.14,NA,TRUE,FALSE
+"PVIZU","1","hombre",48,"no fumador",FALSE,18.33,NA,FALSE,FALSE
+"YFBQX","0","mujer",34,"no fumador",FALSE,2.08,NA,TRUE,FALSE
+"SCQOW","0","mujer",35,"no fumador",FALSE,11.1,NA,FALSE,FALSE
+"OSTCT","0","mujer",27,"no fumador",FALSE,1.89,NA,FALSE,FALSE
+"COBQS","0","mujer",74,"fumador > 2 cajetillas",FALSE,4.46,16,TRUE,TRUE
+"XBSYD","0","hombre",52,"no fumador",FALSE,3.91,NA,FALSE,FALSE
+"LIRYO","0","mujer",66,"fumador > 2 cajetillas",FALSE,7.91,NA,FALSE,TRUE
+"YJMBG","0","mujer",45,"no fumador",TRUE,2.57,NA,FALSE,FALSE
+"AUOOU","1","hombre",49,"fumador",FALSE,22.47,6,FALSE,TRUE
+"UDWON","1","hombre",88,"no fumador",FALSE,22.88,NA,FALSE,FALSE
+"OVHCN","0","hombre",44,"fumador",FALSE,2.8,NA,FALSE,TRUE
+"FZDZX","1","hombre",54,"ex fumador",FALSE,24.49,NA,FALSE,TRUE
+"LMPCR","1","mujer",80,"ex fumador",FALSE,13.11,NA,FALSE,TRUE
+"GUIUV","0","hombre",64,"fumador > 2 cajetillas",FALSE,7.01,NA,FALSE,TRUE
+"VTXJT","0","mujer",50,"no fumador",TRUE,7.99,67,FALSE,FALSE
+"BTRHZ","0","mujer",71,"no fumador",FALSE,7.84,33,FALSE,FALSE
+"FKYFM","1","hombre",66,"fumador > 2 cajetillas",FALSE,6.16,NA,TRUE,TRUE
+"WHBVJ","1","hombre",52,"no fumador",FALSE,5.59,NA,TRUE,FALSE
+"BIYAO","0","hombre",71,"no fumador",FALSE,6.39,NA,FALSE,FALSE
+"UBGOD","1","hombre",53,"fumador",TRUE,12.36,NA,FALSE,TRUE
+"UYJSH","1","hombre",80,"fumador",TRUE,11.23,NA,FALSE,TRUE
+"RAHDD","1","mujer",50,"fumador",FALSE,3.63,NA,FALSE,TRUE
+"UBEPL","0","hombre",36,"no fumador",FALSE,4.56,NA,TRUE,FALSE
+"HLGND","1","mujer",43,"fumador > 2 cajetillas",FALSE,5.7,NA,FALSE,TRUE
+"NVOQL","1","mujer",49,"no fumador",FALSE,3.04,NA,FALSE,FALSE
+"MKIUZ","1","hombre",81,"no fumador",FALSE,16.24,NA,FALSE,FALSE
+"AUTCL","0","mujer",44,"fumador",TRUE,2.43,NA,FALSE,TRUE
+"GNFYT","1","mujer",65,"no fumador",TRUE,31.27,NA,FALSE,FALSE
+"OOIQH","1","mujer",74,"ex fumador",FALSE,11.57,NA,FALSE,TRUE
+"IQZPW","1","hombre",74,"fumador",FALSE,32.67,NA,TRUE,TRUE
+"EFPAY","0","hombre",59,"no fumador",TRUE,11.58,NA,TRUE,FALSE
+"QMLYP","0","hombre",55,"no fumador",FALSE,2.88,NA,FALSE,FALSE
+"PREYE","0","hombre",45,"no fumador",FALSE,5.54,NA,TRUE,FALSE
+"DGSOS","1","mujer",53,"no fumador",FALSE,7.2,NA,FALSE,FALSE
+"NNEAL","0","mujer",48,"no fumador",TRUE,6.88,NA,TRUE,FALSE
+"YYMRJ","0","mujer",71,"no fumador",FALSE,4.64,NA,TRUE,FALSE
+"JXING","0","hombre",57,"fumador",FALSE,4.18,NA,FALSE,TRUE
+"XNMXS","1","hombre",41,"no fumador",FALSE,14.53,NA,FALSE,FALSE
+"UAQNW","0","mujer",48,"ex fumador",FALSE,3.45,NA,TRUE,TRUE
+"OWGCL","0","hombre",79,"fumador",TRUE,4.98,NA,FALSE,TRUE
+"VATVB","1","mujer",68,"fumador",FALSE,21.92,NA,FALSE,TRUE
+"IUYEF","0","hombre",58,"no fumador",FALSE,8.11,NA,FALSE,FALSE
+"BDULX","0","hombre",51,"fumador",FALSE,6.28,NA,FALSE,TRUE
+"HSFNG","0","mujer",31,"fumador",FALSE,3.96,NA,FALSE,TRUE
+"WFMOC","0","hombre",84,"ex fumador",FALSE,5.41,NA,FALSE,TRUE
+"OQYCW","0","hombre",60,"no fumador",FALSE,3.79,NA,FALSE,FALSE
+"NIVWA","0","hombre",72,"fumador",FALSE,7.12,NA,FALSE,TRUE
+"WDDZY","0","hombre",50,"no fumador",TRUE,3.53,NA,FALSE,FALSE
+"AEVAP","0","mujer",58,"fumador",FALSE,3.17,NA,FALSE,TRUE
+"QDKCZ","0","hombre",55,"no fumador",FALSE,2.94,NA,TRUE,FALSE
+"CZFRT","0","mujer",57,"fumador",FALSE,4.02,NA,FALSE,TRUE
+"TWBSV","0","mujer",49,"no fumador",FALSE,3.29,NA,FALSE,FALSE
+"WKPXD","0","hombre",31,"fumador",FALSE,2.65,NA,TRUE,TRUE
