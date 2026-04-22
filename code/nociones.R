@@ -1,9 +1,7 @@
 
 ## Valores
 # Valores numericos
-2
 2.3
-
 2 + 3
 3.5 * 4
 6 / 3
@@ -13,20 +11,10 @@
 # Valores logicos
 TRUE
 FALSE
-
 2 > 3
-2 < 3
 2 <= 3
-2 >= 3
 3 == 3
 2 != 3
-
-2 < 3 & 3 > 1
-2 < 3 | 3 > 1
-
-# Preguntar:
-2 < 3 & 3 > 4
-2 < 3 | 3 > 4
 
 
 # Cadenas de caracteres
@@ -35,22 +23,16 @@ FALSE
 
 
 # Asignacion de valores
-a <- 2
+a1 <- 2
 a1
 
-a2 <- TRUE
+a2 <- "hola"
 a2
 
-a3 <- "hola"
-
-A1 <- 3
-A1
-
-# Preguntar:
 a1 <- 4
 a1
 
-A1 + a1
+a1 * 2
 
 
 ## Vectores
@@ -70,9 +52,7 @@ b1 - b2
 # Acceso a valores
 b1[1]
 
-# Preguntar
 b4[3]
-
 b4[3] <- "Valencia"
 b4
 
@@ -93,10 +73,6 @@ c2[, 3]
 c2[, "edad"]
 c2$edad
 
-# Preguntar
-c2[2, 1]
-c2[, "pcr"]
-
 # Filtros
 c2[c2$edad < 3, ]
 c2[c2$sexo == "hombre", ]
@@ -114,13 +90,13 @@ c2
 # Nativas
 mean(c2$edad)
 sd(c2$edad)
-summary(c2)
 
-?sd()
+# Propias (no lo vemos)
 
 # Paquetes
 install.packages("table1")
 library(table1)
 
-table1( ~ ., c2)
+# Ayuda
+?table1()
 
