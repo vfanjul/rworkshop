@@ -14,8 +14,6 @@ ruta_datos <- "https://raw.githubusercontent.com/vfanjul/rworkshop/refs/heads/ma
 
 ## Funciones
 # install.packages("table1")
-# install.packages("randomForest")
-# install.packages("randomForest", type = "binary")
 library(table1)
 library(randomForest)
 
@@ -50,7 +48,8 @@ summary(datos)
 # Imputar diabetes y excluir VSG para modelos
 
 
-## 3.3. Acotar poblacion
+## 3.3. Definir poblacion
+# Todos tienen SpA, pero falta filtrar adultos
 datos[datos$edad < 18, ]
 datos <- datos[datos$edad >= 18, ]
 summary(datos)
@@ -146,26 +145,11 @@ lr_mc
 (lr_mc[1, 1] + lr_mc[2, 2])/sum(lr_mc) # Exactitud
 
 
-## 5.3. Otros modelos de machine learning
-# Ajuste (entrenamiento) y explicabilidad
-rf <- randomForest(brote ~ edad + sexo + fumador + diabetes + pcr, train, importance = TRUE)
-varImpPlot(rf)
-
-# Prediccion
-rf_pred <- predict(rf, newdata = test)
-head(rf_pred)
-
-# Evaluacion (matriz confusion)
-rf_mc <- table(real = test$brote, pred = rf_pred)
-rf_mc
-(rf_mc[1, 1] + rf_mc[2, 2])/sum(rf_mc) # Exactitud
-
-
 
 ### 6. Exportar resultados
 # Datos
 write.csv(datos, "datos_reuma_limpios.csv", row.names = FALSE)
 
-# Graficas -> Plots
-# Tablas html -> Viewer
-# Resultados -> Console
+# Graficas -> Exportar desde pestaña "Plots"
+# Tablas html -> Exportar desde pestaña "Viewer"
+# Resultados -> copiar de "Console"
